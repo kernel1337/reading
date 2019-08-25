@@ -141,15 +141,15 @@
 
 * Note - Some sites above marked Non Fiction have Religion/Myth/Esoterica as well
 * [**Sacred Text Archive**](https://tinyurl.com/yvsrl) - (Religion, mythology, folklore, esoteric ect.)
+* [BibleGateway](https://tinyurl.com/k3zup28) - (Multiple versions of Bible)
+* [e-Sword](https://tinyurl.com/y5tvtr57) - (Bible app)
+* [The Book of Enoch](https://tinyurl.com/3g96hxr) - (Enoch Translation)
+* [Torah](https://tinyurl.com/yyjh426k) - (Torah Translation)
+* [Targumim](https://tinyurl.com/y6g2wu69) - (Targumim Translations)
 * [The Kangyur & Tengyur](https://tinyurl.com/y6j7t5u5) - (Translations of Buddha & Indian Buddhist masters texts)
 * [Gnostic Society Library](https://tinyurl.com/yyuyk8zn) - (Documents relating to the Gnostic tradition)
 * [BibliotEcapleyades](https://tinyurl.com/y78c7xlx) - (Archive of myths, conpiracies, esoterica ect.)
 * [EsotericArchives](https://tinyurl.com/y5xyumml) - (Esoterica)
-* [The Book of Enoch](https://tinyurl.com/3g96hxr) - (Enoch Translation)
-* [Torah](https://tinyurl.com/yyjh426k) - (Torah Translation)
-* [Targumim](https://tinyurl.com/y6g2wu69) - (Targumim Translations)
-* [BibleGateway](https://tinyurl.com/k3zup28) - (Multiple versions of Bible)
-* [e-Sword](https://tinyurl.com/y5tvtr57) - (Bible app)
 
 **Reference**
 
@@ -183,8 +183,8 @@
 
 **Helpful**
 
-* [GoodReads](https://tinyurl.com/pljsamj) - (Book, Comic, Manga Tracker/Reviews)
-* [MyAnimeList](https://tinyurl.com/moo3ezh) - (Manga Tracker/Reviews)
+* [**GoodReads**](https://tinyurl.com/pljsamj) - (Book, Comic, Manga Tracker/Reviews)
+* [**MyAnimeList**](https://tinyurl.com/moo3ezh) - (Manga Tracker/Reviews)
 * [Calibre](https://tinyurl.com/j376klh) - (Book organizer)
 * [BookStack](https://tinyurl.com/hhtz9xr) - (Book Organizer)
 * [Ubooquity](https://tinyurl.com/py7ftzj) - (Comics & Book Organizer)
