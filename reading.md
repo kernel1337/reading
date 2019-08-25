@@ -90,7 +90,7 @@
 * [Magazinelib](https://tinyurl.com/y2po9yog) - (Magazines, Huge Library)
 * [FreeMagSpot](https://tinyurl.com/y52wykbu) - (Magazines, Big Library)
 * [Ebook3000](https://tinyurl.com/82k5sp) - (Magazines, Medium Library)
-* [ReleaseBB(https://tinyurl.com/yc4xnvva) - (Magazines, Medium Library, DL's only)
+* [ReleaseBB](https://tinyurl.com/yc4xnvva) - (Magazines, Medium Library, DL's only)
 * [DDLValley](https://tinyurl.com/y45xtzzr) - (Magazines, Medium Library, DL's only)
 * [The Magazine Rack](https://tinyurl.com/y2j8l3r9) - (Internet Archive digitized magazines)
 * [The Computer Magazine Archives](https://tinyurl.com/qcxe349) - (Internet Archive digitized magazines)
