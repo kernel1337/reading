@@ -143,13 +143,13 @@
 * [**Sacred Text Archive**](https://tinyurl.com/yvsrl) - (Religion, mythology, folklore, esoteric ect.)
 * [The Kangyur & Tengyur](https://tinyurl.com/y6j7t5u5) - (Translations of Buddha & Indian Buddhist masters texts)
 * [Gnostic Society Library](https://tinyurl.com/yyuyk8zn) - (Documents relating to the Gnostic tradition)
-* [BibleGateway](https://tinyurl.com/k3zup28) - (Multiple versions of Bible)
+* [BibliotEcapleyades](https://tinyurl.com/y78c7xlx) - (Archive of myths, conpiracies, esoterica ect.)
+* [EsotericArchives](https://tinyurl.com/y5xyumml) - (Esoterica)
 * [The Book of Enoch](https://tinyurl.com/3g96hxr) - (Enoch Translation)
 * [Torah](https://tinyurl.com/yyjh426k) - (Torah Translation)
 * [Targumim](https://tinyurl.com/y6g2wu69) - (Targumim Translations)
-* [EsotericArchives](https://tinyurl.com/y5xyumml) - (Esoterica)
+* [BibleGateway](https://tinyurl.com/k3zup28) - (Multiple versions of Bible)
 * [e-Sword](https://tinyurl.com/y5tvtr57) - (Bible app)
-* [BibliotEcapleyades](https://tinyurl.com/y78c7xlx) - (Archive of myths, conpiracies, esoterica ect.)
 
 **Reference**
 
