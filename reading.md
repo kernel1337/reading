@@ -2,6 +2,14 @@
 * [Movies, TV, Anime & Sports](https://redd.it/a2csq0)
 * [Suggest Sites/Changelog](https://redd.it/ccrmsv) 
 
+**Audiobooks** 
+
+* Note - Some sites above have audiobooks as well 
+* [**AudioBook Bay**](https://tinyurl.com/yajuygsv) - (Audiobooks, Fiction/Non, Huge Library)
+* [Tokybook](https://tinyurl.com/y8l4c8t9) - (Audiobooks, Fiction, Medium Library)
+* [AudioBooks Cloud](https://tinyurl.com/yyuhwkkp) - (Audiobooks Fiction/Non, Medium Library)
+* [The-Eye](https://tinyurl.com/ybocc7ot) - (Audiobook Archive)
+
 **Books**
 
 * [**EBookee**](https://tinyurl.com/nyt7ncw) - (Books, Audiobooks, Magazines, Comics, Fiction/Non, Big Library)
@@ -36,14 +44,6 @@
 * [DailyLit](https://tinyurl.com/nrswebt) - (Books, Fiction, Small Library)
 * [HarryPotterBooksFree](https://tinyurl.com/yyv5bbzo) - (Harry Potter Books)
 * [Unblocked](https://tinyurl.com/ybkdftjg) - (Unblocked Versions of eBook sites)
-
-**Audiobooks** 
-
-* Note - Some sites above have audiobooks as well 
-* [**AudioBook Bay**](https://tinyurl.com/yajuygsv) - (Audiobooks, Fiction/Non, Huge Library)
-* [Tokybook](https://tinyurl.com/y8l4c8t9) - (Audiobooks, Fiction, Medium Library)
-* [AudioBooks Cloud](https://tinyurl.com/yyuhwkkp) - (Audiobooks Fiction/Non, Medium Library)
-* [The-Eye](https://tinyurl.com/ybocc7ot) - (Audiobook Archive)
 
 **Educational** 
 
