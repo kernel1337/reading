@@ -116,7 +116,7 @@
 * [CIA Publications](https://tinyurl.com/6sqr6ys) - (History, Reports)
 * [Marxists Internet Archive](https://tinyurl.com/ltx73fk) - (Socialism/Commuism Books)
 * [The-Eye](https://tinyurl.com/y5mr25mz) - (Psychedelics Information)
-* [CoolGuides(https://tinyurl.com/yxhnwxdg) - (Educational/Fun Guides)
+* [CoolGuides](https://tinyurl.com/yxhnwxdg) - (Educational/Fun Guides)
 * [AllIT ebooks](https://tinyurl.com/y3xpkwc9) - (Programming, Tech, Huge Library)
 * [ForCoder](https://tinyurl.com/y2kc97lu) - (Programming, Huge Library)
 * [IT eBooks](https://tinyurl.com/83btp86) - (Programming, Huge Library)
@@ -151,7 +151,7 @@
 * **IMPORTANT** - Get a [**VPN**](https://tinyurl.com/y4o6qrgz) before torrenting or using any of the sites below. 
 * Note - These sites contain a mix of books, audibooks, comics, manga, magazines & more
 * [Zooqle](https://tinyurl.com/y5ogfc3q) 
-* [1337(https://tinyurl.com/zej3m6l)
+* [1337](https://tinyurl.com/zej3m6l)
 * [ETTV](https://tinyurl.com/yx8ug2b2)
 * [Isohunt2](https://tinyurl.com/y5n7fdas)
 * [KAT](https://tinyurl.com/y2lxx8qc)
