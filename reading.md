@@ -128,13 +128,13 @@
 * [**Sacred Text Archive**](https://tinyurl.com/yvsrl) - (Religion, mythology, folklore, esoteric ect.)
 * [The Kangyur & Tengyur](https://tinyurl.com/y6j7t5u5) - (Translations of Buddha & Indian Buddhist masters texts)
 * [Gnostic Society Library](https://tinyurl.com/yyuyk8zn) - (Documents relating to the Gnostic tradition)
-* [BibliotEcapleyades](https://tinyurl.com/y78c7xlx) - (Archive of myths, conpiracies, esoterica ect.)
 * [BibleGateway](https://tinyurl.com/k3zup28) - (Multiple versions of Bible)
 * [The Book of Enoch](https://tinyurl.com/3g96hxr) - (Enoch Translation)
 * [Torah](https://tinyurl.com/yyjh426k) - (Torah Translation)
 * [Targumim](https://tinyurl.com/y6g2wu69) - (Targumim Translations)
 * [EsotericArchives](https://tinyurl.com/y5xyumml) - (Esoterica)
 * [e-Sword](https://tinyurl.com/y5tvtr57) - (Bible app)
+* [BibliotEcapleyades](https://tinyurl.com/y78c7xlx) - (Archive of myths, conpiracies, esoterica ect.)
 
 **Reference**
 
@@ -148,7 +148,8 @@
 
 **Torrent** 
 
-* **IMPORTANT** - Get a [**VPN**](https://tinyurl.com/y4o6qrgz) before torrenting or using any of the sites below. Sites contain a mix of books, audibooks, comics, manga, magazines & more)
+* **IMPORTANT** - Get a [**VPN**](https://tinyurl.com/y4o6qrgz) before torrenting or using any of the sites below. 
+* Note - These sites contain a mix of books, audibooks, comics, manga, magazines & more
 * [Zooqle](https://tinyurl.com/y5ogfc3q) 
 * [1337(https://tinyurl.com/zej3m6l)
 * [ETTV](https://tinyurl.com/yx8ug2b2)
