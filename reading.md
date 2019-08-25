@@ -3,6 +3,9 @@
 * [**EBookee**](https://tinyurl.com/nyt7ncw) - (Books, Audiobooks, Magazines, Comics, Fiction/Non, Big Library)
 * [**Mobilism**](https://tinyurl.com/y5b6ev9p) - (Books, Audiobooks, Magz, Comics, Fiction/Non, Huge Library)
 * [**Z-Library**](https://tinyurl.com/yyq4enxd) - (Books, Comics, Fiction/Non, Huge Library)
+* [Filechef](https://tinyurl.com/y6gcqk4h) - (Search archives/directories)
+* [The-Eye](https://tinyurl.com/y9xp5h6t) - (Books Archive), Fiction/Non, Big Library
+* [SoftArchive](https://tinyurl.com/yxzw6tnp) - (Books, Magz, Comics, Fiction/Non, Huge Library)
 * [BookFL](https://tinyurl.com/ybjsplla) - (Books, Fiction/Non, Huge Library)
 * [Free PDF Ebooks](https://tinyurl.com/5zapfh) - (Books, Fiction/Non, Huge Library)
 * [PDFDrive](https://tinyurl.com/ydeqpomv) - (Search PDF, Books, Fiction/Non, Huge Library)
@@ -11,10 +14,17 @@
 * [BooksCool](https://tinyurl.com/yxutdbms) - (Books, Fiction/Non, Big Library)
 * [Novel12](https://tinyurl.com/y5kolyr3) - (Books, Fiction/Non, Big Library)
 * [Ebfinder](https://tinyurl.com/y6cjcsm2) - (Books, Fiction/Non, Big Library)
+* [Project Gutenberg](https://tinyurl.com/hmmj3g4) - (Books, Fiction/Non, Big Library)
+* [Bibliomania](https://tinyurl.com/ytsdug) - (Books, Fiction/Non, Big Library)
+* [Free-eBooks](https://tinyurl.com/yce2c6nm) - (Books, Fiction/Non, Medium Library)
 * [2Novels](https://tinyurl.com/y2els8k8) - (Books, Fiction/Non, Medium Library)
 * [Novels77](https://tinyurl.com/yxo8l6rf) - (Books, Fiction/Non, Medium Library)
+* [Bookyards](https://tinyurl.com/yyx3c5ry) - (Books, Fiction/Non, Medium Library)
 * [ReadCentral](https://tinyurl.com/y47fr3gt) - (Books, Fiction/Non, Medium Library)
+* [Getfreeebooks](https://tinyurl.com/y4n42zyd) - (Books, Fiction/Non, Medium Library)
+* [Manybooks](https://tinyurl.com/yywerezr) - (Books, Fiction/Non, Small Library)
 * [AllBooksHub](https://tinyurl.com/yytg55ev) - (Books, Fiction/Non, Small Library)
+* [DailyLit](https://tinyurl.com/nrswebt) - (Books, Fiction, Small Library)
 * [HarryPotterBooksFree](https://tinyurl.com/yyv5bbzo) - (Harry Potter Books)
 
 **Audiobooks** 
@@ -23,6 +33,7 @@
 * [**AudioBook Bay**](https://tinyurl.com/yajuygsv) - (Audiobooks, Fiction/Non, Huge Library)
 * [Tokybook](https://tinyurl.com/y8l4c8t9) - (Audiobooks, Fiction, Medium Library)
 * [AudioBooks Cloud](https://tinyurl.com/yyuhwkkp) - (Audiobooks Fiction/Non, Medium Library)
+* [The-Eye](https://tinyurl.com/ybocc7ot) - (Audiobook Archive)
 
 **Comics/Manga**
 
@@ -42,6 +53,7 @@
 * [Comix-Load](https://tinyurl.com/yyhujn47) - (Comics, Manga, Huge Library, DL's only)
 * Madokami Manga Mirrors - [A-E](https://tinyurl.com/y26lzz6u), [F-K](https://tinyurl.com/yxtf8b42), [L-Q](https://tinyurl.com/y3quwl7e), [R-Z](https://tinyurl.com/y2m8tsko) - (Manga, Huge Library, DL's Only)
 * [MangaZone](https://tinyurl.com/y2jxjc3e) - (Manga, Huge Library) (Android or emulator required)
+* [The-Eye](https://tinyurl.com/y24h34at) - (Comics Archive)
 * [Internet Archive Comics/Manga](https://tinyurl.com/kqcztcd)
 
 **Light Novels** 
@@ -63,11 +75,15 @@
 
 **Education** 
 
-* Note - Some sites above have educational books aswell
+* Note - The sites above marked Non fiction have educational books aswell
 * [**Archive.org**](https://tinyurl.com/lnw8arr) - (15,000,000 books and texts. All Subjects.)
 * [**LibGen**](https://tinyurl.com/ye2e69r) - (Educational Articles, Huge Library)
+* [The Online Books Page](https://tinyurl.com/yxwzjt3x) - (Educational Collection, Huge Library)
+* [Digitalbookindex](https://tinyurl.com/3j5quaw) - (Educational Collection, Huge Library)
+* [The Literature Network](https://tinyurl.com/trsb) - (Educational Collection, Medium Library)
+* [bitdownload](https://tinyurl.com/yyasasxo) - (Educational Collection, Small Library)
 * [Google Scholar](https://tinyurl.com/oywjozw) - (Search Educational Articles)
-* [EarlyModernTexts](https://tinyurl.com/ychpysxs) - (Classic philosophy texts, Small Library)
+* [EarlyModernTexts](https://tinyurl.com/ychpysxs) - (Classic Philosophy texts, Small Library)
 * [BookSC](https://tinyurl.com/y3szezaa) - (Scientific Articles, Big Library)
 * [Sci-Hub](https://tinyurl.com/y553wbqn) - (Scientific Articles, Big Library)
 * [AcademicTorrents](https://tinyurl.com/qjv6hbu) - (Scientific Papers/Articles, Big Library, VPN Required)
@@ -76,9 +92,11 @@
 * [IT eBooks](https://tinyurl.com/83btp86) - (Programming, Huge Library)
 * [CIA Publications](https://tinyurl.com/6sqr6ys) - (History, Reports)
 * [Marxists Internet Archive](https://tinyurl.com/ltx73fk) - (Socialism/Commuism Books)
+* [The-Eye](https://tinyurl.com/y5mr25mz) - (Psychedelics Information)
 
 **Religion/Myth/Esoterica**
 
+* Note - Some sites above marked Non Fiction have Religion/Myth/Esoterica aswell
 * [**Sacred Text Archive**](https://tinyurl.com/yvsrl) - (Religion, mythology, folklore, esoteric ect.)
 * [The Kangyur & Tengyur](https://tinyurl.com/y6j7t5u5) - (Translations of Buddha & Indian Buddhist masters texts)
 * [Gnostic Society Library](https://tinyurl.com/yyuyk8zn) - (Documents relating to the Gnostic tradition)
@@ -90,23 +108,6 @@
 * [EsotericArchives](https://tinyurl.com/y5xyumml) - (Esoterica)
 * [e-Sword](https://tinyurl.com/y5tvtr57) - (Bible app)
 
-* []() - ()
-* []() - ()
-* []() - ()
-* []() - ()
-* []() - ()
-* []() - ()
-* []() - ()
-* []() - ()
-* []() - ()
-* []() - ()
-* []() - ()
-* []() - ()
-* []() - ()
-* []() - ()
-* []() - ()
-* []() - ()
-* []() - ()
 * []() - ()
 * []() - ()
 * []() - ()
