@@ -17,7 +17,7 @@
 * [**Z-Library**](https://tinyurl.com/yyq4enxd) - (Books, Comics, Fiction/Non, Huge Library)
 * [DirtyWarez](https://tinyurl.com/yxa4kyx2) - (Books, Audiobooks, Comics, Fiction/Non Big Library, Account Required)
 * [Filechef](https://tinyurl.com/y6gcqk4h) - (Search archives/directories)
-* [The-Eye](https://tinyurl.com/y9xp5h6t) - (Books Archive), Fiction/Non, Big Library
+* [The-Eye](https://tinyurl.com/y9xp5h6t) - (Books Archive, Fiction/Non, Big Library)
 * [SoftArchive](https://tinyurl.com/yxzw6tnp) - (Books, Magz, Comics, Fiction/Non, Huge Library)
 * [iBookPile](https://tinyurl.com/y49lzbpd) - (Books, Fiction/Non, Big Library)
 * [BookFL](https://tinyurl.com/ybjsplla) - (Books, Fiction/Non, Huge Library)
@@ -159,7 +159,7 @@
 * [Encyclopedia](https://tinyurl.com/yyvcvfof) - (Encyclopedia)
 * [Merriam-Webster](https://tinyurl.com/gvevwgr) - (Dictionary/Thesaurus)
 * [Dictionary](https://tinyurl.com/y3z9q2jc) - (Dictionary/Thesaurus)
-* [Urban Dictionary](https://tinyurl.com/p3tyu84) - (Dictionary for slang words and phrases)
+* [Urban Dictionary](https://tinyurl.com/p3tyu84) - (Dictionary for slang words & phrases)
 
 **Torrent** 
 
