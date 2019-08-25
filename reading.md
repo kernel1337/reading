@@ -45,6 +45,47 @@
 * [AudioBooks Cloud](https://tinyurl.com/yyuhwkkp) - (Audiobooks Fiction/Non, Medium Library)
 * [The-Eye](https://tinyurl.com/ybocc7ot) - (Audiobook Archive)
 
+**Educational** 
+
+* Note - Sites above marked Non fiction have educational books as well
+* [**Archive.org**](https://tinyurl.com/lnw8arr) - (15,000,000 books and texts. All Subjects.)
+* [**LibGen**](https://tinyurl.com/ye2e69r) - (Educational Articles, Huge Library)
+* [The Online Books Page](https://tinyurl.com/yxwzjt3x) - (Educational Collection, Huge Library)
+* [Digitalbookindex](https://tinyurl.com/3j5quaw) - (Educational Collection, Huge Library)
+* [The Literature Network](https://tinyurl.com/trsb) - (Educational Collection, Medium Library)
+* [bitdownload](https://tinyurl.com/yyasasxo) - (Educational Collection, Small Library)
+* [Google Scholar](https://tinyurl.com/oywjozw) - (Search Educational Articles)
+* [Downarchive](https://tinyurl.com/y4z9zpxr) - (Educational Books, Big Library, DL's only)
+* [Avxhm](https://tinyurl.com/y53zj8wg) - (Educational Books, Big Library, DL's only)
+* [FilmRls](https://tinyurl.com/y3auhrom) - (Educational Books, Audiobooks, Big Library, DL's only)
+* [Appnee](https://tinyurl.com/y2ahrrku) - (Educational Books, Medium Library, DL's only)
+* [EarlyModernTexts](https://tinyurl.com/ychpysxs) - (Classic Philosophy texts, Small Library)
+* [BookSC](https://tinyurl.com/y3szezaa) - (Scientific Articles, Big Library)
+* [Sci-Hub](https://tinyurl.com/y553wbqn) - (Scientific Articles, Big Library)
+* [AcademicTorrents](https://tinyurl.com/qjv6hbu) - (Scientific Papers/Articles, Big Library, VPN Required)
+* [CIA Publications](https://tinyurl.com/6sqr6ys) - (History, Reports)
+* [Marxists Internet Archive](https://tinyurl.com/ltx73fk) - (Socialism/Commuism Books)
+* [The-Eye](https://tinyurl.com/y5mr25mz) - (Psychedelics Information)
+* [CoolGuides](https://tinyurl.com/yxhnwxdg) - (Educational/Fun Guides)
+* [AllIT ebooks](https://tinyurl.com/y3xpkwc9) - (Programming, Tech, Huge Library)
+* [ForCoder](https://tinyurl.com/y2kc97lu) - (Programming, Huge Library)
+* [IT eBooks](https://tinyurl.com/83btp86) - (Programming, Huge Library)
+* [Hackr.io](https://tinyurl.com/h2ost6h) - (Programming Courses & Tutorials)
+
+**Religion/Myth/Esoterica**
+
+* Note - Some sites above marked Non Fiction have Religion/Myth/Esoterica as well
+* [**Sacred Text Archive**](https://tinyurl.com/yvsrl) - (Religion, mythology, folklore, esoteric ect.)
+* [BibleGateway](https://tinyurl.com/k3zup28) - (Multiple versions of Bible)
+* [e-Sword](https://tinyurl.com/y5tvtr57) - (Bible app)
+* [The Book of Enoch](https://tinyurl.com/3g96hxr) - (Enoch Translation)
+* [Torah](https://tinyurl.com/yyjh426k) - (Torah Translation)
+* [Targumim](https://tinyurl.com/y6g2wu69) - (Targumim Translations)
+* [The Kangyur & Tengyur](https://tinyurl.com/y6j7t5u5) - (Translations of Buddha & Indian Buddhist masters texts)
+* [Gnostic Society Library](https://tinyurl.com/yyuyk8zn) - (Documents relating to the Gnostic tradition)
+* [BibliotEcapleyades](https://tinyurl.com/y78c7xlx) - (Archive of myths, conpiracies, esoterica ect.)
+* [EsotericArchives](https://tinyurl.com/y5xyumml) - (Esoterica)
+
 **Comics**
 
 * Note - A few sites above have comics as well 
@@ -109,47 +150,6 @@
 * [DDLValley](https://tinyurl.com/y45xtzzr) - (Magazines, Medium Library, DL's only)
 * [The Magazine Rack](https://tinyurl.com/y2j8l3r9) - (Internet Archive digitized magazines)
 * [The Computer Magazine Archives](https://tinyurl.com/qcxe349) - (Internet Archive digitized magazines)
-
-**Educational** 
-
-* Note - Sites above marked Non fiction have educational books as well
-* [**Archive.org**](https://tinyurl.com/lnw8arr) - (15,000,000 books and texts. All Subjects.)
-* [**LibGen**](https://tinyurl.com/ye2e69r) - (Educational Articles, Huge Library)
-* [The Online Books Page](https://tinyurl.com/yxwzjt3x) - (Educational Collection, Huge Library)
-* [Digitalbookindex](https://tinyurl.com/3j5quaw) - (Educational Collection, Huge Library)
-* [The Literature Network](https://tinyurl.com/trsb) - (Educational Collection, Medium Library)
-* [bitdownload](https://tinyurl.com/yyasasxo) - (Educational Collection, Small Library)
-* [Google Scholar](https://tinyurl.com/oywjozw) - (Search Educational Articles)
-* [Downarchive](https://tinyurl.com/y4z9zpxr) - (Educational Books, Big Library, DL's only)
-* [Avxhm](https://tinyurl.com/y53zj8wg) - (Educational Books, Big Library, DL's only)
-* [FilmRls](https://tinyurl.com/y3auhrom) - (Educational Books, Audiobooks, Big Library, DL's only)
-* [Appnee](https://tinyurl.com/y2ahrrku) - (Educational Books, Medium Library, DL's only)
-* [EarlyModernTexts](https://tinyurl.com/ychpysxs) - (Classic Philosophy texts, Small Library)
-* [BookSC](https://tinyurl.com/y3szezaa) - (Scientific Articles, Big Library)
-* [Sci-Hub](https://tinyurl.com/y553wbqn) - (Scientific Articles, Big Library)
-* [AcademicTorrents](https://tinyurl.com/qjv6hbu) - (Scientific Papers/Articles, Big Library, VPN Required)
-* [CIA Publications](https://tinyurl.com/6sqr6ys) - (History, Reports)
-* [Marxists Internet Archive](https://tinyurl.com/ltx73fk) - (Socialism/Commuism Books)
-* [The-Eye](https://tinyurl.com/y5mr25mz) - (Psychedelics Information)
-* [CoolGuides](https://tinyurl.com/yxhnwxdg) - (Educational/Fun Guides)
-* [AllIT ebooks](https://tinyurl.com/y3xpkwc9) - (Programming, Tech, Huge Library)
-* [ForCoder](https://tinyurl.com/y2kc97lu) - (Programming, Huge Library)
-* [IT eBooks](https://tinyurl.com/83btp86) - (Programming, Huge Library)
-* [Hackr.io](https://tinyurl.com/h2ost6h) - (Programming Courses & Tutorials)
-
-**Religion/Myth/Esoterica**
-
-* Note - Some sites above marked Non Fiction have Religion/Myth/Esoterica as well
-* [**Sacred Text Archive**](https://tinyurl.com/yvsrl) - (Religion, mythology, folklore, esoteric ect.)
-* [BibleGateway](https://tinyurl.com/k3zup28) - (Multiple versions of Bible)
-* [e-Sword](https://tinyurl.com/y5tvtr57) - (Bible app)
-* [The Book of Enoch](https://tinyurl.com/3g96hxr) - (Enoch Translation)
-* [Torah](https://tinyurl.com/yyjh426k) - (Torah Translation)
-* [Targumim](https://tinyurl.com/y6g2wu69) - (Targumim Translations)
-* [The Kangyur & Tengyur](https://tinyurl.com/y6j7t5u5) - (Translations of Buddha & Indian Buddhist masters texts)
-* [Gnostic Society Library](https://tinyurl.com/yyuyk8zn) - (Documents relating to the Gnostic tradition)
-* [BibliotEcapleyades](https://tinyurl.com/y78c7xlx) - (Archive of myths, conpiracies, esoterica ect.)
-* [EsotericArchives](https://tinyurl.com/y5xyumml) - (Esoterica)
 
 **Reference**
 
