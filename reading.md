@@ -29,32 +29,40 @@
 
 **Audiobooks** 
 
-* Note - Some sites above have audiobooks aswell 
+* Note - Some sites above have audiobooks as well 
 * [**AudioBook Bay**](https://tinyurl.com/yajuygsv) - (Audiobooks, Fiction/Non, Huge Library)
 * [Tokybook](https://tinyurl.com/y8l4c8t9) - (Audiobooks, Fiction, Medium Library)
 * [AudioBooks Cloud](https://tinyurl.com/yyuhwkkp) - (Audiobooks Fiction/Non, Medium Library)
 * [The-Eye](https://tinyurl.com/ybocc7ot) - (Audiobook Archive)
 
-**Comics/Manga**
+**Comics**
 
-* Note - Some sites above have comics/manga aswell 
+* Note - A few sites above have comics as well 
 * [**ReadComicsOnline**](https://tinyurl.com/y46g2ey6) - (Comics, Huge Library)
-* [**KissManga**](https://tinyurl.com/kruckeh) - (Manga, Huge Library)
 * [ComicPunch](https://tinyurl.com/yypect5f) - (Comics, Manga, Huge Library)
+* [Comix-Load](https://tinyurl.com/yyhujn47) - (Comics, Manga, Huge Library, DL's only)
+* [Internet Archive Comics/Manga](https://tinyurl.com/kqcztcd) - (Comics/Manga Archive)
 * [Comic Extra](https://tinyurl.com/y5r9beob) - (Comics, Big Library)
+* [GetComics](https://tinyurl.com/y8ymvusj) - (Comics, Big Library + DL's)
+* [The-Eye](https://tinyurl.com/y24h34at) - (Comics Archive)
+
+**Manga**
+
+* Note - Some of the sites above have Manga as well
+* [**KissManga**](https://tinyurl.com/kruckeh) - (Manga, Huge Library)
 * [MangaDex](https://tinyurl.com/y6m4r3jw) - (Manga, Huge Library)
 * [NineAnime](https://tinyurl.com/y5w73vsr) - (Manga, Huge Library)
 * [Manga Rock](https://tinyurl.com/yxvu2dev) - (Manga, Huge Library)
 * [Manga Here](https://tinyurl.com/y2e735u8) - (Manga, Huge Library)
 * [Bato](https://tinyurl.com/y3woz94b) - (Manga, Huge Library)
+* [Manga47](https://tinyurl.com/y5e4y6sb) - (Manga, Huge Library)
+* [Chia-Anime](https://tinyurl.com/y327n8z8) - (Manga, Huge Library)
+* [MangaLife](https://tinyurl.com/y56wd7dp) - (Manga, Huge Library)
+* [ReadManga](https://tinyurl.com/y3nsmku7) - (Manga, Huge Library)
 * [MangaNelo](https://tinyurl.com/y2pmmtwy) or [Mangakakalot](https://tinyurl.com/yydyy9vd) - (Manga, Huge Library)
 * [MangaSee](https://tinyurl.com/y389o6d6) - (Manga, Big Library)
-* [GetComics](https://tinyurl.com/y8ymvusj) - (Comics, Big Library + DL's)
-* [Comix-Load](https://tinyurl.com/yyhujn47) - (Comics, Manga, Huge Library, DL's only)
 * Madokami Manga Mirrors - [A-E](https://tinyurl.com/y26lzz6u), [F-K](https://tinyurl.com/yxtf8b42), [L-Q](https://tinyurl.com/y3quwl7e), [R-Z](https://tinyurl.com/y2m8tsko) - (Manga, Huge Library, DL's Only)
 * [MangaZone](https://tinyurl.com/y2jxjc3e) - (Manga, Huge Library) (Android or emulator required)
-* [The-Eye](https://tinyurl.com/y24h34at) - (Comics Archive)
-* [Internet Archive Comics/Manga](https://tinyurl.com/kqcztcd)
 
 **Light Novels** 
 
@@ -64,7 +72,7 @@
 
 **Magazines** 
 
-* Note - Some sites above have Magazines aswell 
+* Note - Some sites above marked Magz have Magazines as well 
 * [DownMagz](https://tinyurl.com/y9uom42c) - (Magazines, Huge Library)
 * [PDFMagazines](https://tinyurl.com/y57k4rbr) - (Magazines, Huge Library)
 * [WorldMags](https://tinyurl.com/y6cbvssh) - (Magazines, Huge Library)
@@ -73,9 +81,9 @@
 * [The Magazine Rack](https://tinyurl.com/y2j8l3r9) - (Internet Archive digitized magazines)
 * [The Computer Magazine Archives](https://tinyurl.com/qcxe349) - (Internet Archive digitized magazines)
 
-**Education** 
+**Educational** 
 
-* Note - The sites above marked Non fiction have educational books aswell
+* Note - Sites above marked Non fiction have educational books as well
 * [**Archive.org**](https://tinyurl.com/lnw8arr) - (15,000,000 books and texts. All Subjects.)
 * [**LibGen**](https://tinyurl.com/ye2e69r) - (Educational Articles, Huge Library)
 * [The Online Books Page](https://tinyurl.com/yxwzjt3x) - (Educational Collection, Huge Library)
@@ -96,7 +104,7 @@
 
 **Religion/Myth/Esoterica**
 
-* Note - Some sites above marked Non Fiction have Religion/Myth/Esoterica aswell
+* Note - Some sites above marked Non Fiction have Religion/Myth/Esoterica as well
 * [**Sacred Text Archive**](https://tinyurl.com/yvsrl) - (Religion, mythology, folklore, esoteric ect.)
 * [The Kangyur & Tengyur](https://tinyurl.com/y6j7t5u5) - (Translations of Buddha & Indian Buddhist masters texts)
 * [Gnostic Society Library](https://tinyurl.com/yyuyk8zn) - (Documents relating to the Gnostic tradition)
@@ -108,19 +116,22 @@
 * [EsotericArchives](https://tinyurl.com/y5xyumml) - (Esoterica)
 * [e-Sword](https://tinyurl.com/y5tvtr57) - (Bible app)
 
-* []() - ()
-* []() - ()
-* []() - ()
-* []() - ()
-* []() - ()
-* []() - ()
-* []() - ()
-* []() - ()
-* []() - ()
-* []() - ()
-* []() - ()
-* []() - ()
-* []() - ()
-* []() - ()
+**Reference**
+
+* [Everpidia](https://tinyurl.com/y9jsq3yp) - (Encyclopedia)
+* [Wikipidia](https://tinyurl.com/yghajsp) - (Encyclopedia)
+* [Britannica](https://tinyurl.com/jbqyszc) - (Encyclopedia)
+* [Encyclopedia](https://tinyurl.com/yyvcvfof) - (Encyclopedia)
+* [Merriam-Webster](https://tinyurl.com/gvevwgr) - (Dictionary/Thesaurus)
+* [Dictionary](https://tinyurl.com/y3z9q2jc) - (Dictionary/Thesaurus)
+
+**Helpful**
+
+* [Calibre](https://tinyurl.com/j376klh) - (Book organizer)
+* [BookStack](https://tinyurl.com/hhtz9xr) - (Book Organizer)
+* [Ubooquity](https://tinyurl.com/py7ftzj) - (Comics & Book Organizer)
+* [Kindle Comic Converter](https://tinyurl.com/yyx46wn3) - (Change PNG, JPG, GIF, CBZ, CBR, CB7 files to EPUB or MOBI)
+
+
 * []() - ()
 
