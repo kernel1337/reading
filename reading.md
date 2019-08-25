@@ -12,7 +12,7 @@
 
 **Books**
 
-* [**EBookee**](https://tinyurl.com/nyt7ncw) - (Books, Audiobooks, Magazines, Comics, Fiction/Non, Big Library)
+* [**EBookee**](https://tinyurl.com/nyt7ncw) - (Books, Audiobooks, Magz, Comics, Fiction/Non, Big Library)
 * [**Mobilism**](https://tinyurl.com/y5b6ev9p) - (Books, Audiobooks, Magz, Comics, Fiction/Non, Huge Library)
 * [**Z-Library**](https://tinyurl.com/yyq4enxd) - (Books, Comics, Fiction/Non, Huge Library)
 * [DirtyWarez](https://tinyurl.com/yxa4kyx2) - (Books, Audiobooks, Comics, Fiction/Non Big Library, Account Required)
