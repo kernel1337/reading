@@ -1,3 +1,6 @@
+* **Important** - [**Adblocking Guide**](https://tinyurl.com/y4e59rq4) 
+* [Suggest Sites/Changelog](https://redd.it/ccrmsv) 
+
 **Books**
 
 * [**EBookee**](https://tinyurl.com/nyt7ncw) - (Books, Audiobooks, Magazines, Comics, Fiction/Non, Big Library)
@@ -31,6 +34,7 @@
 * [AllBooksHub](https://tinyurl.com/yytg55ev) - (Books, Fiction/Non, Small Library)
 * [DailyLit](https://tinyurl.com/nrswebt) - (Books, Fiction, Small Library)
 * [HarryPotterBooksFree](https://tinyurl.com/yyv5bbzo) - (Harry Potter Books)
+* [Unblocked](https://tinyurl.com/ybkdftjg) - (Unblocked Versions of eBook sites)
 
 **Audiobooks** 
 
@@ -174,10 +178,14 @@
 * [TorrentFunk](https://tinyurl.com/y3mgd5dt) 
 * [TorLock](https://tinyurl.com/y5e8na27) 
 * [Snowfl](https://tinyurl.com/y4scbmss)
+* [Torrent Clients](https://tinyurl.com/y3l8o4zb)
 
 **Helpful**
 
+* [GoodReads](https://tinyurl.com/pljsamj) - (Book, Comic, Manga Tracker/Reviews)
+* [MyAnimeList](https://tinyurl.com/moo3ezh) - (Manga Tracker/Reviews)
 * [Calibre](https://tinyurl.com/j376klh) - (Book organizer)
 * [BookStack](https://tinyurl.com/hhtz9xr) - (Book Organizer)
 * [Ubooquity](https://tinyurl.com/py7ftzj) - (Comics & Book Organizer)
 * [Kindle Comic Converter](https://tinyurl.com/yyx46wn3) - (Change PNG, JPG, GIF, CBZ, CBR, CB7 files to EPUB or MOBI)
+* Backup - 
