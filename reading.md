@@ -79,7 +79,17 @@
 
 * [NovelPlanet](https://tinyurl.com/y2lez5ho) - (Light Novels, Big Library)
 * [Armaell's Library](https://tinyurl.com/y3j9xvbs) - (Light Novels, Big Library)
+* [Novelonlinefree](https://tinyurl.com/y63ygb2u) - (Light Novels, Big Library)
+* [LHNovels](https://tinyurl.com/y4rl6p7b) - (Light Novels, Big Library)
+* [KissNovels](https://tinyurl.com/y4z4hqlb)  (Light Novels, Medium Library)
+* [Jnovels](https://tinyurl.com/y3dnatnx) - (Light Novels, Medium Library)
+* [Eng Light Novels](https://tinyurl.com/y6rwm734) - (Light Novels, Medium Library)
+* [Read Novel Full](https://tinyurl.com/yak5uq9t) - (Light Novels, Medium Library)
+* [Light Novels World](https://tinyurl.com/yy2cbd4q) - (Light Novels, Medium Library)
 * [Baka-Tsuki](https://tinyurl.com/mo6hrtf) - (Light novels, Small Library)
+* [Light Novels Translations](https://tinyurl.com/y578sw9c) - (Light novels, Small Library)
+* [NovelFree](https://tinyurl.com/y5m5gyd7) - (Light novels, Small Library)
+* [FreeLightNovel](https://tinyurl.com/y6rdxxxn) - (Light novels, Small Library)
 
 **Magazines** 
 
