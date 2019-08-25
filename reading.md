@@ -189,5 +189,5 @@
 * [BookStack](https://tinyurl.com/hhtz9xr) - (Book Organizer)
 * [Ubooquity](https://tinyurl.com/py7ftzj) - (Comics & Book Organizer)
 * [Kindle Comic Converter](https://tinyurl.com/yyx46wn3) - (Change PNG, JPG, GIF, CBZ, CBR, CB7 files to EPUB or MOBI)
-* [Shortlinks]() - (Easily Share/Save Post)
+* [Shortlinks](https://tinyurl.com/y2rjq73h) - (Easily Share/Save Post)
 * Backup - [GitHub](https://tinyurl.com/y2bt3zqc)
