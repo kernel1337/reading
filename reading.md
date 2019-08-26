@@ -26,6 +26,7 @@
 * [Bibliomania](https://tinyurl.com/ytsdug) - (Books, Fiction/Non, Big Library)
 * [eBookBB](https://tinyurl.com/y5xzmstv) - (Books, Fiction/Non, Big Library)
 * [DownTurk](https://tinyurl.com/yxlbdqeg) - (Books, Audiobooks, Fiction/Non, Big Library, DL's Only)
+* [4Shared](https://tinyurl.com/y3rd5hy3) - (Search PDF's, Books, Comics, Magazines)
 * [Free-eBooks](https://tinyurl.com/yce2c6nm) - (Books, Fiction/Non, Medium Library)
 * [2Novels](https://tinyurl.com/y2els8k8) - (Books, Fiction/Non, Medium Library)
 * [Novels77](https://tinyurl.com/yxo8l6rf) - (Books, Fiction/Non, Medium Library)
