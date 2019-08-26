@@ -71,7 +71,7 @@
 
 **Religion/Myth/Esoteric**
 
-* Note - Some sites above marked Non Fiction have Religion/Myth/Esoterica as well
+* Note - Some sites above have Religion/Myth/Esoteric as well
 * [**Sacred Text Archive**](https://tinyurl.com/yvsrl) - (Religion, mythology, folklore, esoteric ect.)
 * [BibleGateway](https://tinyurl.com/k3zup28) - (Multiple versions of Bible)
 * [e-Sword](https://tinyurl.com/y5tvtr57) - (Bible app)
@@ -85,7 +85,7 @@
 
 **Comics**
 
-* Note - A few sites above have comics as well 
+* Note - A few sites marked above have comics as well 
 * [**ReadComicsOnline**](https://tinyurl.com/y46g2ey6) - (Comics, Huge Library)
 * [ComicPunch](https://tinyurl.com/yypect5f) - (Comics, Manga, Huge Library)
 * [Comic Extra](https://tinyurl.com/y5r9beob) - (Comics, Big Library)
@@ -98,7 +98,7 @@
 
 **Manga**
 
-* Note - Some of the sites above have Manga as well
+* Note - A few sites marked above have Manga as well
 * [**KissManga**](https://tinyurl.com/kruckeh) - (Manga, Huge Library)
 * [MangaDex](https://tinyurl.com/y6m4r3jw) - (Manga, Huge Library)
 * [NineAnime](https://tinyurl.com/y5w73vsr) - (Manga, Huge Library)
@@ -136,7 +136,7 @@
 
 **Magazines** 
 
-* Note - Some sites above marked Magz have Magazines as well 
+* Note - Sites above marked Magz have Magazines as well 
 * [DownMagz](https://tinyurl.com/y9uom42c) - (Magazines, Huge Library)
 * [PDFMagazines](https://tinyurl.com/y57k4rbr) - (Magazines, Huge Library)
 * [WorldMags](https://tinyurl.com/y6cbvssh) - (Magazines, Huge Library)
