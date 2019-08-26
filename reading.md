@@ -187,9 +187,9 @@
 
 * [**GoodReads**](https://tinyurl.com/pljsamj) - (Book, Comic, Manga Tracker/Reviews)
 * [**MyAnimeList**](https://tinyurl.com/moo3ezh) - (Manga Tracker/Reviews)
-* [Calibre](https://tinyurl.com/j376klh) - (Book Reader/Organizer)
-* [BookStack](https://tinyurl.com/hhtz9xr) - (Book Reader/Organizer)
-* [Ubooquity](https://tinyurl.com/py7ftzj) - (Comics & Book Reader/Organizer)
+* [Calibre](https://tinyurl.com/j376klh) - (eBook Reader/Organizer)
+* [BookStack](https://tinyurl.com/hhtz9xr) - (eBook Reader/Organizer)
+* [Ubooquity](https://tinyurl.com/py7ftzj) - (Comics & eBook Reader/Organizer)
 * [Kindle Comic Converter](https://tinyurl.com/yyx46wn3) - (Change PNG, JPG, GIF, CBZ, CBR, CB7 files to EPUB or MOBI)
 * [Shortlinks](https://tinyurl.com/y2rjq73h) - (Easily Share/Save Post)
 * Backup - [GitHub](https://tinyurl.com/y2bt3zqc)
