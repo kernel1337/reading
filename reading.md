@@ -74,7 +74,7 @@
 * [IT eBooks](https://tinyurl.com/83btp86) - (Programming, Huge Library)
 * [Hackr.io](https://tinyurl.com/h2ost6h) - (Programming Courses & Tutorials)
 
-**Religion/Myth/Esoterica**
+**Religion/Myth/Esoteric**
 
 * Note - Some sites above marked Non Fiction have Religion/Myth/Esoterica as well
 * [**Sacred Text Archive**](https://tinyurl.com/yvsrl) - (Religion, mythology, folklore, esoteric ect.)
