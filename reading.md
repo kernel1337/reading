@@ -64,6 +64,8 @@
 * [Sci-Hub](https://tinyurl.com/y553wbqn) - (Scientific Articles, Big Library)
 * [AcademicTorrents](https://tinyurl.com/qjv6hbu) - (Scientific Papers/Articles, Big Library, VPN Required)
 * [CIA Publications](https://tinyurl.com/6sqr6ys) - (History, Reports)
+* [NASA NTRS](https://tinyurl.com/y5r9434h) - (Citations, full-text documents)
+* [Military Technical Reports](https://tinyurl.com/yxmbk4yb) - (ARL Technical Reports)
 * [Marxists Internet Archive](https://tinyurl.com/ltx73fk) - (Socialism/Commuism Books)
 * [The-Eye](https://tinyurl.com/y5mr25mz) - (Psychedelics Information)
 * [CoolGuides](https://tinyurl.com/yxhnwxdg) - (Educational/Fun Guides)
