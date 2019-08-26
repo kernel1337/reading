@@ -5,8 +5,7 @@
 **Audiobooks** 
 
 * Note - A few sites below have audiobooks as well 
-* [**AudioBook Bay**](https://tinyurl.com/yajuygsv) - (Audiobooks, Fiction/Non, Huge Library)
-* [Tokybook](https://tinyurl.com/y8l4c8t9) - (Audiobooks, Fiction, Medium Library)
+* [**Tokybook**](https://tinyurl.com/y8l4c8t9) - (Audiobooks, Fiction, Medium Library)
 * [AudioBooks Cloud](https://tinyurl.com/yyuhwkkp) - (Audiobooks, Fiction/Non, Medium Library)
 * [The-Eye](https://tinyurl.com/ybocc7ot) - (Audiobook Archive)
 
@@ -167,6 +166,7 @@
 
 * **IMPORTANT** - Get a [**VPN**](https://tinyurl.com/y4o6qrgz) before torrenting or using any of the sites below. 
 * Note - These sites contain a mix of books, audibooks, comics, manga, magazines & more
+* [**AudioBook Bay**](https://tinyurl.com/yajuygsv) - (Audiobooks, Fiction/Non, Huge Library)
 * [Zooqle](https://tinyurl.com/y5ogfc3q) 
 * [1337](https://tinyurl.com/zej3m6l)
 * [ETTV](https://tinyurl.com/yx8ug2b2)
