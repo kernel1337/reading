@@ -79,6 +79,7 @@
 * [Torah](https://tinyurl.com/yyjh426k) - (Torah Translation)
 * [Targumim](https://tinyurl.com/y6g2wu69) - (Targumim Translations)
 * [The Kangyur & Tengyur](https://tinyurl.com/y6j7t5u5) - (Translations of Buddha & Indian Buddhist masters texts)
+* [Early Christian Writings](https://tinyurl.com/4qowheb) - (Christian/Gnostic writings)
 * [Gnostic Society Library](https://tinyurl.com/yyuyk8zn) - (Documents relating to the Gnostic tradition)
 * [BibliotEcapleyades](https://tinyurl.com/y78c7xlx) - (Archive of myths, conpiracies, esoterica ect.)
 * [EsotericArchives](https://tinyurl.com/y5xyumml) - (Esoterica)
