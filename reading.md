@@ -69,12 +69,17 @@
 * [IT eBooks](https://tinyurl.com/83btp86) - (Programming, Huge Library)
 * [Hackr.io](https://tinyurl.com/h2ost6h) - (Programming Courses & Tutorials)
 
-**Religion/Myth/Esoteric**
+**Religion/Occult/Esoteric**
 
 * Note - Some sites above have Religion/Myth/Esoteric as well
 * [**Sacred Text Archive**](https://tinyurl.com/yvsrl) - (Religion, mythology, folklore, esoteric ect.)
 * [Gnostic Society Library](https://tinyurl.com/yyuyk8zn) - (Documents relating to the Gnostic tradition)
 * [DarkBooks](https://tinyurl.com/yye2pgfs) - (Books on magic and occultism)
+* [Golden Dawn Library](https://tinyurl.com/y33lut5a) - (Magic, Alchemy, Esoteric)
+* [Hermetics Resource Site](https://tinyurl.com/auau3eq) - (Ancient Texts, Myths, Occult. Magic)
+* [Hermetic Library](https://tinyurl.com/y27ntqnn) - (Library of the Hermetic Academy)
+* [Astrum Argenteum](https://tinyurl.com/y4e9v64y) - (Magic, occult)
+* [Masonic Library](https://tinyurl.com/y4frpun9) - (Library of Masonic Books)
 * [Grimoar.cz](https://tinyurl.com/y2lywbx2) - (Occult texts library)
 * [BibliotEcapleyades](https://tinyurl.com/y78c7xlx) - (Archive of myths, conpiracies, esoterica ect.)
 * [EsotericArchives](https://tinyurl.com/y5xyumml) - (Esoterica)
@@ -85,6 +90,7 @@
 * [Torah](https://tinyurl.com/yyjh426k) - (Torah Translation)
 * [Targumim](https://tinyurl.com/y6g2wu69) - (Targumim Translations)
 * [The Kangyur & Tengyur](https://tinyurl.com/y6j7t5u5) - (Translations of Buddha & Indian Buddhist masters texts)
+* [American Buddha Library](https://tinyurl.com/y3adse6r) - (Buddha Texts Library)
 
 **Comics**
 
