@@ -73,18 +73,18 @@
 
 * Note - Some sites above have Religion/Myth/Esoteric as well
 * [**Sacred Text Archive**](https://tinyurl.com/yvsrl) - (Religion, mythology, folklore, esoteric ect.)
+* [Gnostic Society Library](https://tinyurl.com/yyuyk8zn) - (Documents relating to the Gnostic tradition)
+* [DarkBooks](https://tinyurl.com/yye2pgfs) - (Books on magic and occultism)
+* [Grimoar.cz](https://tinyurl.com/y2lywbx2) - (Occult texts library)
+* [BibliotEcapleyades](https://tinyurl.com/y78c7xlx) - (Archive of myths, conpiracies, esoterica ect.)
+* [EsotericArchives](https://tinyurl.com/y5xyumml) - (Esoterica)
+* [Early Christian Writings](https://tinyurl.com/4qowheb) - (Christian/Gnostic writings)
 * [BibleGateway](https://tinyurl.com/k3zup28) - (Multiple versions of Bible)
 * [e-Sword](https://tinyurl.com/y5tvtr57) - (Bible app)
 * [The Book of Enoch](https://tinyurl.com/3g96hxr) - (Enoch Translation)
 * [Torah](https://tinyurl.com/yyjh426k) - (Torah Translation)
 * [Targumim](https://tinyurl.com/y6g2wu69) - (Targumim Translations)
 * [The Kangyur & Tengyur](https://tinyurl.com/y6j7t5u5) - (Translations of Buddha & Indian Buddhist masters texts)
-* [Early Christian Writings](https://tinyurl.com/4qowheb) - (Christian/Gnostic writings)
-* [Gnostic Society Library](https://tinyurl.com/yyuyk8zn) - (Documents relating to the Gnostic tradition)
-* [DarkBooks](https://tinyurl.com/yye2pgfs) - (Books on magic and occultism)
-* [Grimoar.cz](https://tinyurl.com/y2lywbx2) - (Occult texts library)
-* [BibliotEcapleyades](https://tinyurl.com/y78c7xlx) - (Archive of myths, conpiracies, esoterica ect.)
-* [EsotericArchives](https://tinyurl.com/y5xyumml) - (Esoterica)
 
 **Comics**
 
