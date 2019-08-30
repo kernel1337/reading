@@ -84,6 +84,7 @@
 * [BibliotEcapleyades](https://tinyurl.com/y78c7xlx) - (Archive of myths, conpiracies, esoterica ect.)
 * [EsotericArchives](https://tinyurl.com/y5xyumml) - (Esoterica)
 * [Early Christian Writings](https://tinyurl.com/4qowheb) - (Christian/Gnostic writings)
+* [TheForbiddenReligion](https://tinyurl.com/y344fevu) - (Gnostic texts)
 * [BibleGateway](https://tinyurl.com/k3zup28) - (Multiple versions of Bible)
 * [e-Sword](https://tinyurl.com/y5tvtr57) - (Bible app)
 * [The Book of Enoch](https://tinyurl.com/3g96hxr) - (Enoch Translation)
