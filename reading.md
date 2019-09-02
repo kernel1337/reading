@@ -8,6 +8,7 @@
 * [**Tokybook**](https://tinyurl.com/y8l4c8t9) - (Audiobook Streaming, Fiction, Medium Library)
 * [**EBookee**](https://tinyurl.com/nyt7ncw) - (Books, Audiobooks, Magz, Comics, Fiction/Non, Big Library)
 * [**Z-Library**](https://tinyurl.com/yyq4enxd) - (Books, Comics, Fiction/Non, Huge Library)
+* [**ebooks CSE**](https://tinyurl.com/y6m4355c) - (Custom google search)
 * [**DirtyWarez**](https://tinyurl.com/yxa4kyx2) - (Books, Audiobooks, Comics, Fiction/Non Big Library, Account Required)
 * [**The-Eye**](https://tinyurl.com/y9g6579j) - (Books, Audiobooks, Comics, Fiction/Non, Big Library)
 * [**Filechef**](https://tinyurl.com/y6gcqk4h) - (Search archives/directories)
