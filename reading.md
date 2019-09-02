@@ -92,6 +92,7 @@
 * [Torah](https://tinyurl.com/yyjh426k) - (Torah Translation)
 * [Targumim](https://tinyurl.com/y6g2wu69) - (Targumim Translations)
 * [The Kangyur & Tengyur](https://tinyurl.com/y6j7t5u5) - (Translations of Buddha & Indian Buddhist masters texts)
+* [Sankaracharya](https://tinyurl.com/y3xvmtnp) - (Indian philosophy)
 * [American Buddha Library](https://tinyurl.com/y3adse6r) - (Buddha Texts Library)
 
 **Comics**
