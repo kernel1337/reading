@@ -72,7 +72,7 @@
 
 **Religion/Occult/Esoteric**
 
-* Note - Some sites above have Religion/Myth/Esoteric as well
+* Note - Some sites above have Religion/Occult/Esoteric as well
 * [**Sacred Text Archive**](https://tinyurl.com/yvsrl) - (Religion, mythology, folklore, esoteric ect.)
 * [Gnostic Society Library](https://tinyurl.com/yyuyk8zn) - (Documents relating to the Gnostic tradition)
 * [DarkBooks](https://tinyurl.com/yye2pgfs) - (Books on magic and occultism)
