@@ -41,6 +41,7 @@
 * [DailyLit](https://tinyurl.com/nrswebt) - (Books, Fiction, Small Library)
 * [HarryPotterBooksFree](https://tinyurl.com/yyv5bbzo) - (Harry Potter Books)
 * [Unblocked](https://tinyurl.com/ybkdftjg) - (Unblocked Versions of eBook sites)
+* [Archived Audibooks](https://tinyurl.com/pbhxc63) - (Audiobooks, Fiction/Non, Huge Library)
 
 **Educational** 
 
