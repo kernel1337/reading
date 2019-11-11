@@ -170,6 +170,7 @@
 * [Britannica](https://tinyurl.com/jbqyszc) - (Encyclopedia)
 * [Encyclopedia](https://tinyurl.com/yyvcvfof) - (Encyclopedia)
 * [Merriam-Webster](https://tinyurl.com/gvevwgr) - (Dictionary/Thesaurus)
+* [Wiktionary](https://tinyurl.com/y97unjgn) - (Etymologies Dictionary)
 * [Dictionary](https://tinyurl.com/y3z9q2jc) - (Dictionary/Thesaurus)
 * [Urban Dictionary](https://tinyurl.com/p3tyu84) - (Dictionary for slang words & phrases)
 
