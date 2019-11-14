@@ -93,6 +93,7 @@
 * [e-Sword](https://tinyurl.com/y5tvtr57) - (Bible app)
 * [The Book of Enoch](https://tinyurl.com/3g96hxr) - (Enoch Translation)
 * [Torah](https://tinyurl.com/yyjh426k) - (Torah Translation)
+* [Talmud](https://tinyurl.com/uohmaye) - (Talmud Translation)
 * [Targumim](https://tinyurl.com/y6g2wu69) - (Targumim Translations)
 * [The Kangyur & Tengyur](https://tinyurl.com/y6j7t5u5) - (Translations of Buddha & Indian Buddhist masters texts)
 * [Sankaracharya](https://tinyurl.com/y3xvmtnp) - (Indian philosophy)
