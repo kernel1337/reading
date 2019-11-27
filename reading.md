@@ -64,6 +64,7 @@
 * [AcademicTorrents](https://tinyurl.com/qjv6hbu) - (Scientific Papers/Articles, Big Library, VPN Required)
 * [CIA Publications](https://tinyurl.com/6sqr6ys) - (History, Reports)
 * [NASA NTRS](https://tinyurl.com/y5r9434h) - (Citations, full-text documents)
+* [NSA Archive](https://tinyurl.com/ss6pqzj)
 * [Military Technical Reports](https://tinyurl.com/yxmbk4yb) - (ARL Technical Reports)
 * [Marxists Internet Archive](https://tinyurl.com/ltx73fk) - (Socialism/Commuism Books)
 * [The-Eye](https://tinyurl.com/y5mr25mz) - (Psychedelics Information)
@@ -88,6 +89,7 @@
 * [BibliotEcapleyades](https://tinyurl.com/y78c7xlx) - (Archive of myths, conpiracies, esoterica ect.)
 * [EsotericArchives](https://tinyurl.com/y5xyumml) - (Esoterica)
 * [Early Christian Writings](https://tinyurl.com/4qowheb) - (Christian/Gnostic writings)
+* [HolyBooks](https://tinyurl.com/t3etcq5) - (Sacred Texts ect.)
 * [TheForbiddenReligion](https://tinyurl.com/y344fevu) - (Gnostic texts)
 * [BibleGateway](https://tinyurl.com/k3zup28) - (Multiple versions of Bible)
 * [e-Sword](https://tinyurl.com/y5tvtr57) - (Bible app)
@@ -98,6 +100,7 @@
 * [The Kangyur & Tengyur](https://tinyurl.com/y6j7t5u5) - (Translations of Buddha & Indian Buddhist masters texts)
 * [Sankaracharya](https://tinyurl.com/y3xvmtnp) - (Indian philosophy)
 * [American Buddha Library](https://tinyurl.com/y3adse6r) - (Buddha Texts Library)
+* [BuddhaNet](https://tinyurl.com/2g2bh) - (Buddha Texts)
 
 **Comics**
 
@@ -133,6 +136,8 @@
 * [MangaSee](https://tinyurl.com/y389o6d6) - (Manga, Big Library)
 * Madokami Manga Mirrors - [A-E](https://tinyurl.com/y26lzz6u), [F-K](https://tinyurl.com/yxtf8b42), [L-Q](https://tinyurl.com/y3quwl7e), [R-Z](https://tinyurl.com/y2m8tsko) - (Manga, Huge Library, DL's Only)
 * [MangaZone](https://tinyurl.com/y2jxjc3e) - (Manga, Huge Library) (Android or emulator required)
+* [All Manga Read](https://tinyurl.com/cuel3wq) - (Manga reader for computer browsers)
+* [Tachiyomi](https://tinyurl.com/tga2kav) - (Manga reader for android)
 
 **Light Novels** 
 
@@ -166,6 +171,7 @@
 
 **Reference**
 
+* [Wolfram Alpha](https://tinyurl.com/bs5ngw7) - (Searchable Knowledgebase)
 * [Everpidia](https://tinyurl.com/y9jsq3yp) - (Encyclopedia)
 * [Wikipidia](https://tinyurl.com/yghajsp) - (Encyclopedia)
 * [Britannica](https://tinyurl.com/jbqyszc) - (Encyclopedia)
@@ -174,6 +180,7 @@
 * [Wiktionary](https://tinyurl.com/y97unjgn) - (Etymologies Dictionary)
 * [Dictionary](https://tinyurl.com/y3z9q2jc) - (Dictionary/Thesaurus)
 * [Urban Dictionary](https://tinyurl.com/p3tyu84) - (Dictionary for slang words & phrases)
+* [Wikiquote](https://tinyurl.com/nu4dazq) - (Quote Database)
 
 **Torrent** 
 
