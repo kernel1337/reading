@@ -139,6 +139,7 @@
 * [MangaZone](https://tinyurl.com/y2jxjc3e) - (Manga, Huge Library) (Android or emulator required)
 * [All Manga Read](https://tinyurl.com/cuel3wq) - (Manga reader for computer browsers)
 * [Tachiyomi](https://tinyurl.com/tga2kav) - (Manga reader for android)
+* [Manga DLR](https://tinyurl.com/vk2o3as) - (Manga reader for android)
 
 **Light Novels** 
 
