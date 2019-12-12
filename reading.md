@@ -4,7 +4,9 @@
 * [Music, Podcasts & Radio](https://redd.it/dhw2lh)
 * [Suggest Sites/Changelog](https://redd.it/ccrmsv) 
 
-**Books/Audiobooks**
+***
+
+###Books/Audiobooks
 
 * [**Mobilism**](https://tinyurl.com/y5b6ev9p) - (Books, Audiobooks, Magz, Comics, Fiction/Non, Huge Library)
 * [**Tokybook**](https://tinyurl.com/y8l4c8t9) - (Audiobook Streaming, Fiction, Medium Library)
@@ -45,7 +47,9 @@
 * [Unblocked](https://tinyurl.com/ybkdftjg) - (Unblocked Versions of eBook sites)
 * [Archived Audibooks](https://tinyurl.com/pbhxc63) - (Audiobooks, Fiction/Non, Huge Library)
 
-**Educational** 
+***
+
+###Educational
 
 * Note - Sites above marked Non fiction have educational books as well
 * [**Archive.org**](https://tinyurl.com/lnw8arr) - (15,000,000 books and texts. All Subjects.)
@@ -75,7 +79,9 @@
 * [IT eBooks](https://tinyurl.com/83btp86) - (Programming, Huge Library)
 * [Hackr.io](https://tinyurl.com/h2ost6h) - (Programming Courses & Tutorials)
 
-**Religion/Occult/Esoteric**
+***
+
+###Religion/Occult/Esoteric
 
 * Note - Some sites above have Religion/Occult/Esoteric as well
 * [**Sacred Text Archive**](https://tinyurl.com/yvsrl) - (Religion, mythology, folklore, esoteric ect.)
@@ -103,7 +109,9 @@
 * [American Buddha Library](https://tinyurl.com/y3adse6r) - (Buddha Texts Library)
 * [BuddhaNet](https://tinyurl.com/2g2bh) - (Buddha Texts)
 
-**Comics**
+***
+
+###Comics
 
 * Note - A few sites marked above have comics as well 
 * [**ReadComicsOnline**](https://tinyurl.com/y46g2ey6) - (Comics, Huge Library)
@@ -117,7 +125,9 @@
 * [Internet Archive Comics/Manga](https://tinyurl.com/kqcztcd) - (Comics/Manga Archive)
 * [ComicBox](https://tinyurl.com/vwdd7qs) - (Android/IOS Comic Reader/Library, Use Android Emulator to run on pc/mac)
 
-**Manga**
+***
+
+###Manga
 
 * Note - A few sites marked above have Manga as well
 * [**KissManga**](https://tinyurl.com/kruckeh) - (Manga, Huge Library)
@@ -142,7 +152,9 @@
 * [Tachiyomi](https://tinyurl.com/tga2kav) - (Manga reader for android)
 * [Manga DLR](https://tinyurl.com/vk2o3as) - (Manga reader for android)
 
-**Light Novels** 
+***
+
+###Light Novels
 
 * [NovelPlanet](https://tinyurl.com/y2lez5ho) - (Light Novels, Big Library)
 * [Armaell's Library](https://tinyurl.com/y3j9xvbs) - (Light Novels, Big Library)
@@ -158,7 +170,9 @@
 * [NovelFree](https://tinyurl.com/y5m5gyd7) - (Light novels, Small Library)
 * [FreeLightNovel](https://tinyurl.com/y6rdxxxn) - (Light novels, Small Library)
 
-**Magazines** 
+***
+
+###Magazines
 
 * Note - Sites above marked Magz have Magazines as well 
 * [DownMagz](https://tinyurl.com/y9uom42c) - (Magazines, Huge Library)
@@ -172,7 +186,9 @@
 * [The Magazine Rack](https://tinyurl.com/y2j8l3r9) - (Internet Archive digitized magazines)
 * [The Computer Magazine Archives](https://tinyurl.com/qcxe349) - (Internet Archive digitized magazines)
 
-**Reference**
+***
+
+###Reference
 
 * [Wolfram Alpha](https://tinyurl.com/bs5ngw7) - (Searchable Knowledgebase)
 * [Everpidia](https://tinyurl.com/y9jsq3yp) - (Encyclopedia)
@@ -185,7 +201,9 @@
 * [Urban Dictionary](https://tinyurl.com/p3tyu84) - (Dictionary for slang words & phrases)
 * [Wikiquote](https://tinyurl.com/nu4dazq) - (Quote Database)
 
-**Torrent** 
+***
+
+###Torrent
 
 * **IMPORTANT** - Get a [**VPN**](https://tinyurl.com/y4o6qrgz) before torrenting or using any of the sites below. 
 * Note - These sites contain a mix of books, audibooks, comics, manga, magazines & more
@@ -206,7 +224,9 @@
 * [Snowfl](https://tinyurl.com/y4scbmss)
 * [Torrent Clients](https://tinyurl.com/y3l8o4zb)
 
-**Helpful**
+***
+
+###Helpful
 
 * [**GoodReads**](https://tinyurl.com/pljsamj) - (Book, Comic, Manga Tracker/Reviews)
 * [**MyAnimeList**](https://tinyurl.com/moo3ezh) - (Manga Tracker/Reviews)
