@@ -236,4 +236,3 @@
 * [Kindle Comic Converter](https://tinyurl.com/yyx46wn3) - (Change PNG, JPG, GIF, CBZ, CBR, CB7 files to EPUB or MOBI)
 * [Shortlinks](https://tinyurl.com/y2rjq73h) - (Easily Share/Save Post)
 * Backup - [GitHub](https://tinyurl.com/y2bt3zqc)
-* *Follow on [Letterboxd](https://letterboxd.com/imtoad/)*
