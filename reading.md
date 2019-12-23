@@ -205,7 +205,7 @@
 
 ###Torrent
 
-* **IMPORTANT** - Get a [**VPN**](https://tinyurl.com/y4o6qrgz) before torrenting or using any of the sites below. 
+* **IMPORTANT** - Get a [**VPN**](https://tinyurl.com/vraun2r) before torrenting or using any of the sites below. 
 * Note - These sites contain a mix of books, audibooks, comics, manga, magazines & more
 * [**AudioBook Bay**](https://tinyurl.com/yajuygsv) - (Audiobooks, Fiction/Non, Huge Library)
 * [Zooqle](https://tinyurl.com/y5ogfc3q) 
