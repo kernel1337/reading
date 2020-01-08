@@ -8,16 +8,18 @@
 
 ###Books/Audiobooks
 
-* [**Mobilism**](https://tinyurl.com/y5b6ev9p) - (Books, **Audiobooks**, Magz, Comics, Fiction/Non, Huge Library)
-* [**Tokybook**](https://tinyurl.com/y8l4c8t9) - (**Audiobook** Streaming, Fiction, Medium Library)
-* [**EBookee**](https://tinyurl.com/nyt7ncw) - (Books, **Audiobooks**, Magz, Comics, Fiction/Non, Big Library)
+* [**Mobilism**](https://tinyurl.com/y5b6ev9p) - (Books, Audiobooks, Magz, Comics, Fiction/Non, Huge Library)
 * [**Z-Library**](https://tinyurl.com/yyq4enxd) - (Books, Comics, Fiction/Non, Huge Library)
-* [**ebooks CSE**](https://tinyurl.com/y6m4355c) - (Custom google search)
-* [**DirtyWarez**](https://tinyurl.com/yxa4kyx2) - (Books, **Audiobooks**, Comics, Fiction/Non Big Library, Account Required)
-* [**The-Eye**](https://tinyurl.com/y9g6579j) - (Books, **Audiobooks**, Comics, Fiction/Non, Big Library)
-* [**Filechef**](https://tinyurl.com/y6gcqk4h) - (Search archives/directories)
+* [**Tokybook**](https://tinyurl.com/y8l4c8t9) - (Audiobook Streaming, Fiction, Medium Library)
+* [**EBookee**](https://tinyurl.com/nyt7ncw) - (Books, Audiobooks, Magz, Comics, Fiction/Non, Big Library)
+* [**DirtyWarez**](https://tinyurl.com/yxa4kyx2) - (Books, Audiobooks, Comics, Fiction/Non Big Library, Account Required)
+* [**The-Eye**](https://tinyurl.com/y9g6579j) - (Books, Audiobooks, Comics, Fiction/Non, Big Library)
+* [AudioBooks Cloud](https://tinyurl.com/yyuhwkkp) - (Audiobooks, Fiction/Non, Medium Library)
+* [DownTurk](https://tinyurl.com/yxlbdqeg) - (Books, Audiobooks, Fiction/Non, Big Library, DL's Only)
+* [Archived Audibooks](https://tinyurl.com/pbhxc63) - (Audiobooks, Fiction/Non, Huge Library)
+* [Filechef](https://tinyurl.com/y6gcqk4h) - (Search archives/directories)
 * [FileListing](https://tinyurl.com/yx46ydgd) - (Search Files from various sites)
-* [AudioBooks Cloud](https://tinyurl.com/yyuhwkkp) - (**Audiobooks**, Fiction/Non, Medium Library)
+* [ebooks CSE](https://tinyurl.com/y6m4355c) - (Custom google search)
 * [SoftArchive](https://tinyurl.com/yxzw6tnp) - (Books, Magz, Comics, Fiction/Non, Huge Library)
 * [iBookPile](https://tinyurl.com/y49lzbpd) - (Books, Fiction/Non, Big Library)
 * [BookFL](https://tinyurl.com/ybjsplla) - (Books, Fiction/Non, Huge Library)
@@ -31,7 +33,6 @@
 * [Project Gutenberg](https://tinyurl.com/hmmj3g4) - (Books, Fiction/Non, Big Library)
 * [Bibliomania](https://tinyurl.com/ytsdug) - (Books, Fiction/Non, Big Library)
 * [eBookBB](https://tinyurl.com/y5xzmstv) - (Books, Fiction/Non, Big Library)
-* [DownTurk](https://tinyurl.com/yxlbdqeg) - (Books, **Audiobooks**, Fiction/Non, Big Library, DL's Only)
 * [4Shared](https://tinyurl.com/y3rd5hy3) - (Search PDF's, Books, Comics, Magazines)
 * [Free-eBooks](https://tinyurl.com/yce2c6nm) - (Books, Fiction/Non, Medium Library)
 * [2Novels](https://tinyurl.com/y2els8k8) - (Books, Fiction/Non, Medium Library)
@@ -45,7 +46,6 @@
 * [DailyLit](https://tinyurl.com/nrswebt) - (Books, Fiction, Small Library)
 * [HarryPotterBooksFree](https://tinyurl.com/yyv5bbzo) - (Harry Potter Books)
 * [Unblocked](https://tinyurl.com/ybkdftjg) - (Unblocked Versions of eBook sites)
-* [Archived Audibooks](https://tinyurl.com/pbhxc63) - (**Audiobooks**, Fiction/Non, Huge Library)
 
 ***
 
@@ -61,7 +61,7 @@
 * [Google Scholar](https://tinyurl.com/oywjozw) - (Search Educational Articles)
 * [Downarchive](https://tinyurl.com/y4z9zpxr) - (Educational Books, Big Library, DL's only)
 * [Avxhm](https://tinyurl.com/y53zj8wg) - (Educational Books, Big Library, DL's only)
-* [FilmRls](https://tinyurl.com/y3auhrom) - (Educational Books, **Audiobooks**, Big Library, DL's only)
+* [FilmRls](https://tinyurl.com/y3auhrom) - (Educational Books, Audiobooks, Big Library, DL's only)
 * [Appnee](https://tinyurl.com/y2ahrrku) - (Educational Books, Medium Library, DL's only)
 * [EarlyModernTexts](https://tinyurl.com/ychpysxs) - (Classic Philosophy texts, Small Library)
 * [BookSC](https://tinyurl.com/y3szezaa) - (Scientific Articles, Big Library)
@@ -207,7 +207,7 @@
 
 * **IMPORTANT** - Get a [**VPN**](https://tinyurl.com/vraun2r) before torrenting or using any of the sites below. 
 * Note - These sites contain a mix of books, audibooks, comics, manga, magazines & more
-* [**AudioBook Bay**](https://tinyurl.com/yajuygsv) - (**Audiobooks**, Fiction/Non, Huge Library)
+* [**AudioBook Bay**](https://tinyurl.com/yajuygsv) - (Audiobooks, Fiction/Non, Huge Library)
 * [Zooqle](https://tinyurl.com/y5ogfc3q) 
 * [1337](https://tinyurl.com/zej3m6l)
 * [ETTV](https://tinyurl.com/yx8ug2b2)
