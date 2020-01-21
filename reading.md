@@ -1,4 +1,4 @@
-* **Important** - [**Adblocking Guide**](https://tinyurl.com/y4e59rq4) 
+* **Important** - [**Adblocking Guide**](https://github.com/freemediaheckyeah/streaming/wiki/Adblockers) 
 * [FAQ, Suggest Sites & Changelog](https://redd.it/emesmu) 
 * [Movies, TV, Anime & Sports](https://redd.it/a2csq0)
 * [PC, Emulator & Android Games](https://redd.it/dhcmkw)
@@ -211,7 +211,7 @@
 
 **Torrent**
 
-* **IMPORTANT** - Get a [**VPN**](https://tinyurl.com/vraun2r) before torrenting or using any of the sites below. 
+* **IMPORTANT** - Get a [**VPN**](https://github.com/freemediaheckyeah/streaming/wiki/VPNS) before torrenting or using any of the sites below. 
 * Note - These sites contain a mix of books, audibooks, comics, manga, magazines & more
 * [**AudioBook Bay**](https://tinyurl.com/yajuygsv) - (Audiobooks, Fiction/Non, Huge Library)
 * [Zooqle](https://tinyurl.com/y5ogfc3q) 
@@ -240,5 +240,5 @@
 * [BookStack](https://tinyurl.com/hhtz9xr) - (eBook Reader/Organizer)
 * [Ubooquity](https://tinyurl.com/py7ftzj) - (Comics & eBook Reader/Organizer)
 * [Kindle Comic Converter](https://tinyurl.com/yyx46wn3) - (Change PNG, JPG, GIF, CBZ, CBR, CB7 files to EPUB or MOBI)
-* [Shortlinks](https://tinyurl.com/y2rjq73h) - (Easily Share/Save Post)
-* [**Sub Backups**](https://tinyurl.com/qm8tqwv)
+* [Shortlinks](https://github.com/freemediaheckyeah/reading/wiki/Shortlinks) - (Easily Share/Save Post)
+* [**Sub Backups**](https://github.com/freemediaheckyeah/streaming/wiki/r-freemediaheckyeah-Backups)
