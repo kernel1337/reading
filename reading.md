@@ -16,6 +16,7 @@
 * [**DirtyWarez**](https://tinyurl.com/yxa4kyx2) - (Books, Audiobooks, Comics, Fiction/Non Big Library, Account Required)
 * [**The-Eye**](https://tinyurl.com/y9g6579j) - (Books, Audiobooks, Comics, Fiction/Non, Big Library)
 * **r/opendirectories** + [How to Search](https://redd.it/933pzm), [All Directories](https://redd.it/dxt28f)
+* [FilePursuit](https://tinyurl.com/y2no5m8l) - (Search DL's) 
 * [Ewasion](https://tinyurl.com/u9ykq2m) - (Search directories)
 * [Filer](https://tinyurl.com/upr72yz) - (Search directories)
 * r/opencalibre - (Calibre Libraries)
