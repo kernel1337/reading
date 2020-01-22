@@ -213,7 +213,6 @@
 * [1337](https://tinyurl.com/zej3m6l)
 * [ETTV](https://tinyurl.com/yx8ug2b2)
 * [Isohunt2](https://tinyurl.com/y5n7fdas)
-* [KAT](https://tinyurl.com/y2lxx8qc)
 * [PirateBay](https://tinyurl.com/6k4ftp) 
 * [Torrentz2](https://tinyurl.com/gm3zz3r) 
 * [GloTorrents](https://tinyurl.com/y4wsxepu) 
