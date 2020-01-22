@@ -137,6 +137,7 @@
 **Manga**
 
 * Note - A few sites marked above have Manga as well
+* [**Manga Index**](https://tinyurl.com/r3ggoz6) - (Manga, Light & Visual Novels Sites List)
 * [**KissManga**](https://tinyurl.com/kruckeh) - (Manga, Huge Library)
 * [MangaDex](https://tinyurl.com/y6m4r3jw) - (Manga, Huge Library)
 * [NineAnime](https://tinyurl.com/y5w73vsr) - (Manga, Huge Library)
