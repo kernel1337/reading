@@ -77,7 +77,6 @@
 * [NSA Archive](https://tinyurl.com/ss6pqzj) - (NSA Reports)
 * [Marxists Internet Archive](https://tinyurl.com/ltx73fk) - (Socialism/Commuism Books)
 * [The-Eye](https://tinyurl.com/y5mr25mz) - (Psychedelics Information)
-* [CoolGuides](https://tinyurl.com/yxhnwxdg) - (Educational/Fun Guides)
 * [AllIT ebooks](https://tinyurl.com/y3xpkwc9) - (Programming, Tech, Huge Library)
 * [ForCoder](https://tinyurl.com/y2kc97lu) - (Programming, Huge Library)
 * [IT eBooks](https://tinyurl.com/83btp86) - (Programming, Huge Library)
