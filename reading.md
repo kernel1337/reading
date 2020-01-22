@@ -181,7 +181,6 @@
 * [PDFMagazines](https://tinyurl.com/y57k4rbr) - (Magazines, Huge Library)
 * [WorldMags](https://tinyurl.com/y6cbvssh) - (Magazines, Huge Library)
 * [Magazinelib](https://tinyurl.com/y2po9yog) - (Magazines, Huge Library)
-* [FreeMagSpot](https://tinyurl.com/y52wykbu) - (Magazines, Big Library)
 * [Ebook3000](https://tinyurl.com/82k5sp) - (Magazines, Medium Library)
 * [ReleaseBB](https://tinyurl.com/yc4xnvva) - (Magazines, Medium Library, DL's only)
 * [DDLValley](https://tinyurl.com/y45xtzzr) - (Magazines, Medium Library, DL's only)
