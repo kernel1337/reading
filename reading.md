@@ -140,7 +140,6 @@
 * [Manga Here](https://tinyurl.com/y2e735u8) - (Manga, Huge Library)
 * [Bato](https://tinyurl.com/y3woz94b) - (Manga, Huge Library)
 * [Manga47](https://tinyurl.com/y5e4y6sb) - (Manga, Huge Library)
-* [Chia-Anime](https://tinyurl.com/y327n8z8) - (Manga, Huge Library)
 * [Mangago](https://tinyurl.com/oh5ard6) - (Manga, Huge Library)
 * [MangaLife](https://tinyurl.com/y56wd7dp) - (Manga, Huge Library)
 * [ReadManga](https://tinyurl.com/y3nsmku7) - (Manga, Huge Library)
