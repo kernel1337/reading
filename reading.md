@@ -64,14 +64,19 @@
 * [The Literature Network](https://tinyurl.com/trsb) - (Educational Collection, Medium Library)
 * [bitdownload](https://tinyurl.com/yyasasxo) - (Educational Collection, Small Library)
 * [Google Scholar](https://tinyurl.com/oywjozw) - (Search Educational Articles)
+* [BookFi](https://tinyurl.com/ybjsplla)  - (Educational, Huge Library)
 * [Downarchive](https://tinyurl.com/y4z9zpxr) - (Educational Books, Big Library, DL's only)
 * [Avxhm](https://tinyurl.com/y53zj8wg) - (Educational Books, Big Library, DL's only)
 * [FilmRls](https://tinyurl.com/y3auhrom) - (Educational Books, Audiobooks, Big Library, DL's only)
 * [Appnee](https://tinyurl.com/y2ahrrku) - (Educational Books, Medium Library, DL's only)
+* [ScanLibs](https://tinyurl.com/whsjkrv) - (Educational Books, Medium Library, DL's only)
 * [EarlyModernTexts](https://tinyurl.com/ychpysxs) - (Classic Philosophy texts, Small Library)
+* [TextBook Nova](https://tinyurl.com/szko9ml) - (Academic Textbooks)
 * [BookSC](https://tinyurl.com/y3szezaa) - (Scientific Articles, Big Library)
 * [Sci-Hub](https://tinyurl.com/y553wbqn) - (Scientific Articles, Big Library)
 * [AcademicTorrents](https://tinyurl.com/qjv6hbu) - (Scientific Papers/Articles, Big Library)
+* [ResearchGate](https://tinyurl.com/47wuh2) - (Scientific Papers)
+* [Academia.edu](https://tinyurl.com/l8wm8ur) - (Academic Papers)
 * [CIA Publications](https://tinyurl.com/6sqr6ys) - (History, Reports)
 * [NASA NTRS](https://tinyurl.com/y5r9434h) - (Citations, full-text documents)
 * [NSA Archive](https://tinyurl.com/ss6pqzj) - (NSA Reports)
@@ -81,6 +86,9 @@
 * [ForCoder](https://tinyurl.com/y2kc97lu) - (Programming, Huge Library)
 * [IT eBooks](https://tinyurl.com/83btp86) - (Programming, Huge Library)
 * [Hackr.io](https://tinyurl.com/h2ost6h) - (Programming Courses & Tutorials)
+* [CodeProg](https://tinyurl.com/wtaj9ud) - (Coding Books, Medium Library, DL's only)
+* [PDFchm](https://tinyurl.com/vjghuq3) - (Coding Books, Medium Library, DL's only)
+* [TheTrove](https://tinyurl.com/y9l9lt2x) - (RPG Content)
 
 ***
 
@@ -109,6 +117,7 @@
 * [Targumim](https://tinyurl.com/y6g2wu69) - (Targumim Translations)
 * [The Kangyur & Tengyur](https://tinyurl.com/y6j7t5u5) - (Translations of Buddha & Indian Buddhist masters texts)
 * [Sankaracharya](https://tinyurl.com/y3xvmtnp) - (Indian philosophy)
+* [Shastras](https://tinyurl.com/ubdhzd8) - (Indian philosophy)
 * [BuddhaNet](https://tinyurl.com/2g2bh) - (Buddha Texts)
 
 ***
@@ -150,6 +159,7 @@
 * [MangaSee](https://tinyurl.com/y389o6d6) - (Manga, Big Library)
 * Madokami Manga Mirrors - [A-E](https://tinyurl.com/y26lzz6u), [F-K](https://tinyurl.com/yxtf8b42), [L-Q](https://tinyurl.com/y3quwl7e), [R-Z](https://tinyurl.com/y2m8tsko) - (Manga, Huge Library, DL's Only)
 * [MangaZone](https://tinyurl.com/y2jxjc3e) - (Manga, Huge Library) (Android or emulator required)
+* [MAL Managa](https://tinyurl.com/v2rxsqs) - (Manga, Small Library)
 * [All Manga Read](https://tinyurl.com/cuel3wq) - (Manga reader for computer browsers)
 * [Tachiyomi](https://tinyurl.com/tga2kav) - (Manga reader for android)
 * [Manga DLR](https://tinyurl.com/vk2o3as) - (Manga reader for android)
@@ -233,6 +243,7 @@
 * [Calibre](https://tinyurl.com/j376klh) - (eBook Reader/Organizer)
 * [BookStack](https://tinyurl.com/hhtz9xr) - (eBook Reader/Organizer)
 * [Ubooquity](https://tinyurl.com/py7ftzj) - (Comics & eBook Reader/Organizer)
+* [Mobilism](https://tinyurl.com/skm8pkj) - (Mobilism App Apk)
 * [Kindle Comic Converter](https://tinyurl.com/yyx46wn3) - (Change PNG, JPG, GIF, CBZ, CBR, CB7 files to EPUB or MOBI)
 * [Shortlinks](https://github.com/freemediaheckyeah/reading/wiki/Shortlinks) - (Easily Share/Save Post)
 * [**Sub Backups**](https://github.com/freemediaheckyeah/streaming/wiki/r-freemediaheckyeah-Backups)
