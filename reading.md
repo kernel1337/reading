@@ -1,3 +1,4 @@
+
 * **Important** - [**Adblocking Guide**](https://github.com/freemediaheckyeah/streaming/wiki/Adblockers) 
 * **[Discord](https://discord.gg/vgnaeka)** - (Our Community Chat)
 * [FAQ, Suggest Sites & Changelog](https://redd.it/emesmu) 
@@ -12,7 +13,7 @@
 * [**Mobilism**](https://tinyurl.com/y5b6ev9p) - (Books, Audiobooks, Magz, Comics, Fiction/Non, Huge Library)
 * [**Z-Library**](https://tinyurl.com/yyq4enxd) - (Books, Comics, Fiction/Non, Huge Library)
 * [**Tokybook**](https://tinyurl.com/y8l4c8t9) - (Audiobook Streaming, Fiction, Medium Library)
-* [**ReadAnyBook**](https://tinyurl.com/wh6homx) - (Books, Big Lirbary)
+* [**ReadAnyBook**](https://tinyurl.com/wh6homx) - (Books, Fiction/Non, Big Library)
 * [**DirtyWarez**](https://tinyurl.com/yxa4kyx2) - (Books, Audiobooks, Comics, Fiction/Non Big Library, Account Required)
 * [**The-Eye**](https://tinyurl.com/y9g6579j) - (Books, Audiobooks, Comics, Fiction/Non, Big Library)
 * **r/opendirectories** + [How to Search](https://redd.it/933pzm), [All Directories](https://redd.it/dxt28f)
