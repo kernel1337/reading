@@ -21,6 +21,7 @@
 * r/opencalibre - (Calibre Libraries)
 * [Filechef](https://tinyurl.com/y6gcqk4h) - (Search archives/directories)
 * [FileListing](https://tinyurl.com/yx46ydgd) - (Search Files from various sites)
+* [AIO Search](https://tinyurl.com/s55txxb) - (Search Multiple DL/Torrent/Stream Sites)
 * [ebooks CSE](https://tinyurl.com/y6m4355c) - (Custom google search)
 * [DownTurk](https://tinyurl.com/yxlbdqeg) - (Books, Audiobooks, Fiction/Non, Big Library, DL's Only)
 * [AudioBooks Cloud](https://tinyurl.com/yyuhwkkp) - (Audiobooks, Fiction/Non, Medium Library)
