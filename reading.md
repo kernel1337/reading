@@ -1,4 +1,3 @@
-
 * **Important** - [**Adblocking Guide**](https://github.com/freemediaheckyeah/streaming/wiki/Adblockers) 
 * **[Discord](https://discord.gg/vgnaeka)** - (Our Community Chat)
 * [FAQ, Suggest Sites & Changelog](https://redd.it/emesmu) 
