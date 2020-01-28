@@ -68,7 +68,6 @@
 * [TextBook Nova](https://tinyurl.com/szko9ml) - (Academic Textbooks)
 * [BookSC](https://tinyurl.com/y3szezaa) - (Scientific Articles, Big Library)
 * [Sci-Hub](https://tinyurl.com/y553wbqn) - (Scientific Articles, Big Library)
-* [AcademicTorrents](https://tinyurl.com/qjv6hbu) - (Scientific Papers/Articles, Big Library)
 * [ResearchGate](https://tinyurl.com/47wuh2) - (Scientific Papers)
 * [Academia.edu](https://tinyurl.com/l8wm8ur) - (Academic Papers)
 * [CIA Publications](https://tinyurl.com/6sqr6ys) - (History, Reports)
@@ -213,19 +212,8 @@
 * **IMPORTANT** - Get a [**VPN**](https://github.com/freemediaheckyeah/streaming/wiki/VPNS) before torrenting or using any of the sites below. 
 * Note - These sites contain a mix of books, audibooks, comics, manga, magazines & more
 * [**AudioBook Bay**](https://tinyurl.com/yajuygsv) - (Audiobooks, Fiction/Non, Huge Library)
-* [Zooqle](https://tinyurl.com/y5ogfc3q) 
-* [1337](https://tinyurl.com/zej3m6l)
-* [ETTV](https://tinyurl.com/yx8ug2b2)
-* [Isohunt2](https://tinyurl.com/y5n7fdas)
-* [PirateBay](https://tinyurl.com/6k4ftp) 
-* [Torrentz2](https://tinyurl.com/gm3zz3r) 
-* [GloTorrents](https://tinyurl.com/y4wsxepu) 
-* [MagnetDL](https://tinyurl.com/yxgv9uql) 
-* [SkyTorrents](https://tinyurl.com/y2ezbu7j) 
-* [Pirateiro](https://tinyurl.com/yyurko9m) 
-* [TorrentFunk](https://tinyurl.com/y3mgd5dt) 
-* [TorLock](https://tinyurl.com/y5e8na27) 
-* [Snowfl](https://tinyurl.com/y4scbmss)
+* [**General Torrent Sites**](https://tinyurl.com/vbshno8) 
+* [AcademicTorrents](https://tinyurl.com/qjv6hbu) - (Scientific Papers/Articles, Big Library)
 * [Torrent Clients](https://tinyurl.com/y3l8o4zb)
 
 ***
