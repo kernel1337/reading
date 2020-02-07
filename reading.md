@@ -213,6 +213,7 @@
 
 * **IMPORTANT** - Get a [**VPN**](https://github.com/freemediaheckyeah/streaming/wiki/VPNS) before torrenting or using any of the sites below. 
 * Note - These sites contain a mix of books, audibooks, comics, manga, magazines & more
+* [**Torrent Clients**](https://tinyurl.com/txregtr)
 * [**AudioBook Bay**](https://tinyurl.com/yajuygsv) - (Audiobooks, Fiction/Non, Huge Library)
 * [**General Torrent Sites**](https://tinyurl.com/vbshno8) 
 * [AcademicTorrents](https://tinyurl.com/qjv6hbu) - (Scientific Papers/Articles, Big Library)
