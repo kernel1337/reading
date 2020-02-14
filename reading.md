@@ -59,6 +59,7 @@
 * [The Literature Network](https://tinyurl.com/trsb) - (Educational Collection, Medium Library)
 * [bitdownload](https://tinyurl.com/yyasasxo) - (Educational Collection, Small Library)
 * [Google Scholar](https://tinyurl.com/oywjozw) - (Search Educational Articles)
+* [TheFreeLibrary](https://tinyurl.com/y5szw6ny) - (Search Educational Articles)
 * [BookFi](https://tinyurl.com/ybjsplla)  - (Educational, Huge Library)
 * [Downarchive](https://tinyurl.com/y4z9zpxr) - (Educational Books, Big Library, DL's only)
 * [Avxhm](https://tinyurl.com/y53zj8wg) - (Educational Books, Big Library, DL's only)
@@ -182,6 +183,7 @@
 **Magazines**
 
 * Note - Sites above marked Magz have Magazines as well 
+* [Mobilism](https://tinyurl.com/stk3sld) - (Newspapers/Magazines Section)
 * [DownMagz](https://tinyurl.com/y9uom42c) - (Magazines, Huge Library)
 * [PDFMagazines](https://tinyurl.com/y57k4rbr) - (Magazines, Huge Library)
 * [WorldMags](https://tinyurl.com/y6cbvssh) - (Magazines, Huge Library)
@@ -191,6 +193,19 @@
 * [DDLValley](https://tinyurl.com/y45xtzzr) - (Magazines, Medium Library, DL's only)
 * [The Magazine Rack](https://tinyurl.com/y2j8l3r9) - (Internet Archive digitized magazines)
 * [The Computer Magazine Archives](https://tinyurl.com/qcxe349) - (Internet Archive digitized magazines)
+
+***
+
+**Newspapers**
+
+* [Newspaper Archives/Indexes](https://tinyurl.com/v9wdzdq) - (Newspaper Indexes)
+* [Indexes By State](https://tinyurl.com/uq74aej) - (Newspaper Indexes)
+* [Mobilism](https://tinyurl.com/stk3sld) - (Newspapers/Magazines Section)
+* [Chronicling America](https://tinyurl.com/yaj2tnc8) - (Newspapers, Huge Library)
+* [Newspapers](https://tinyurl.com/uvp7fp9) - (Newspapers, Medium Library)
+* [Google Newspaper Search](https://tinyurl.com/o2grpny) - (Newspapers, Huge Library)
+* [Internet Archive Newspapers](https://tinyurl.com/uppaj6r) - (Newspapers, Huge Library)
+* [LA Times](https://tinyurl.com/r4lvdug) - (LA Times newspapers)
 
 ***
 
