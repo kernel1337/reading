@@ -22,6 +22,7 @@
 * [AudioBookReviews](https://tinyurl.com/qwbmbgx) - (Audiobooks, Fiction/Non, Medium Library)
 * [iBookPile](https://tinyurl.com/y49lzbpd) - (Books, Fiction/Non, Big Library)
 * [BookFi](https://tinyurl.com/ybjsplla) - (Books, Fiction/Non, Huge Library)
+* [Free PDF Ebooks](https://tinyurl.com/5zapfh) - (Books, Fiction/Non, Huge Library)
 * [PDFDrive](https://tinyurl.com/ydeqpomv) - (Search PDF, Books, Fiction/Non, Huge Library)
 * [ManyBooks](https://tinyurl.com/yywerezr) - (Books, Fiction / Nonfiction Big Library)
 * [AnyBooksFree](https://tinyurl.com/y6ema7gq) - (Books, Fiction/Non, Big Library)
