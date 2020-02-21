@@ -85,6 +85,7 @@
 * [TechbooksFree](https://tinyurl.com/stonkms) - (Books / Educational / Software / Programming / Tech)
 * [PDFchm](https://tinyurl.com/vjghuq3) - (Coding Books, Medium Library, DL's only)
 * [TheTrove](https://tinyurl.com/y9l9lt2x) - (RPG Content)
+* [Cook eBooks](https://tinyurl.com/qtn93e6) - (Cookbook DL's)
 
 ***
 
