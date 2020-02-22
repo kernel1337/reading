@@ -13,6 +13,7 @@
 * [**Tokybook**](https://tinyurl.com/y8l4c8t9) - (Audiobook Streaming, Fiction, Medium Library)
 * [**ReadAnyBook**](https://tinyurl.com/wh6homx) - (Books, Fiction/Non, Big Library)
 * [**Direct Download Sites**](https://tinyurl.com/t3vct42) - (General DL Sites)
+* [**Piracy Forums**](https://tinyurl.com/vn53xqm) -  (General Piracy Forums)
 * r/opencalibre - (Calibre Libraries)
 * [ebooks CSE](https://tinyurl.com/y6m4355c) - (Custom google search)
 * [DownTurk](https://tinyurl.com/yxlbdqeg) - (Books, Audiobooks, Fiction/Non, Big Library, DL's Only)
