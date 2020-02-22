@@ -16,6 +16,7 @@
 * [**Piracy Forums**](https://tinyurl.com/vn53xqm) -  (General Piracy Forums)
 * r/opencalibre - (Calibre Libraries)
 * [ebooks CSE](https://tinyurl.com/y6m4355c) - (Custom google search)
+* [MojoBB](https://tinyurl.com/yx6sm7xe) - (Books, Fiction/Non, Big Library)
 * [DownTurk](https://tinyurl.com/yxlbdqeg) - (Books, Audiobooks, Fiction/Non, Big Library, DL's Only)
 * [AudioBooks Cloud](https://tinyurl.com/yyuhwkkp) - (Audiobooks, Fiction/Non, Medium Library)
 * [Archived Audibooks](https://tinyurl.com/pbhxc63) - (Audiobooks, Fiction/Non, Huge Library)
