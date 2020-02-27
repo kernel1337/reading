@@ -17,7 +17,6 @@
 * r/opencalibre - (Calibre Libraries)
 * [ebooks CSE](https://tinyurl.com/y6m4355c) - (Custom google search)
 * [MojoBB](https://tinyurl.com/yx6sm7xe) - (Books, Fiction/Non, Big Library)
-* [DownTurk](https://tinyurl.com/yxlbdqeg) - (Books, Audiobooks, Fiction/Non, Big Library, DL's Only)
 * [AudioBooks Cloud](https://tinyurl.com/yyuhwkkp) - (Audiobooks, Fiction/Non, Medium Library)
 * [AudioBookReviews](https://tinyurl.com/qwbmbgx) - (Audiobooks, Fiction/Non, Medium Library)
 * [iBookPile](https://tinyurl.com/y49lzbpd) - (Books, Fiction/Non, Big Library)
