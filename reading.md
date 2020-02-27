@@ -40,7 +40,6 @@
 * [ReadCentral](https://tinyurl.com/y47fr3gt) - (Books, Fiction/Non, Medium Library)
 * [Getfreeebooks](https://tinyurl.com/y4n42zyd) - (Books, Fiction/Non, Medium Library)
 * [8eBooks](https://tinyurl.com/y5gma8au) - (Books, Fiction/Non, Medium Library)
-* [Manybooks](https://tinyurl.com/yywerezr) - (Books, Fiction/Non, Small Library)
 * [AllBooksHub](https://tinyurl.com/yytg55ev) - (Books, Fiction/Non, Small Library)
 * [DailyLit](https://tinyurl.com/nrswebt) - (Books, Fiction, Small Library)
 * [Smashword](https://tinyurl.com/una8n97) - (Books Fictions/Non, Small Library)
