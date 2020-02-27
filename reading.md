@@ -14,6 +14,7 @@
 * [**ReadAnyBook**](https://tinyurl.com/wh6homx) - (Books, Fiction/Non, Big Library)
 * [**Direct Download Sites**](https://tinyurl.com/t3vct42) - (General DL Sites)
 * [**Piracy Forums**](https://tinyurl.com/vn53xqm) -  (General Piracy Forums)
+* [**AIO Search**](https://tinyurl.com/s55txxb) + [AIO Guide](https://tinyurl.com/vkvk3fm)
 * r/opencalibre - (Calibre Libraries)
 * [ebooks CSE](https://tinyurl.com/y6m4355c) - (Custom google search)
 * [MojoBB](https://tinyurl.com/yx6sm7xe) - (Books, Fiction/Non, Big Library)
