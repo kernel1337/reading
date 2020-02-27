@@ -19,8 +19,6 @@
 * [MojoBB](https://tinyurl.com/yx6sm7xe) - (Books, Fiction/Non, Big Library)
 * [DownTurk](https://tinyurl.com/yxlbdqeg) - (Books, Audiobooks, Fiction/Non, Big Library, DL's Only)
 * [AudioBooks Cloud](https://tinyurl.com/yyuhwkkp) - (Audiobooks, Fiction/Non, Medium Library)
-* [Archived Audibooks](https://tinyurl.com/pbhxc63) - (Audiobooks, Fiction/Non, Huge Library)
-* [SoftArchive](https://tinyurl.com/yxzw6tnp) - (Books, Magz, Comics, Fiction/Non, Huge Library)
 * [AudioBookReviews](https://tinyurl.com/qwbmbgx) - (Audiobooks, Fiction/Non, Medium Library)
 * [iBookPile](https://tinyurl.com/y49lzbpd) - (Books, Fiction/Non, Big Library)
 * [BookFi](https://tinyurl.com/ybjsplla) - (Books, Fiction/Non, Huge Library)
