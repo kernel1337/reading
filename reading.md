@@ -240,4 +240,3 @@
 * [Ubooquity](https://tinyurl.com/py7ftzj) - (Comics & eBook Reader/Organizer)
 * [Kindle Comic Converter](https://tinyurl.com/yyx46wn3) - (Change PNG, JPG, GIF, CBZ, CBR, CB7 files to EPUB or MOBI)
 * [Shortlinks](https://github.com/freemediaheckyeah/reading/wiki/Shortlinks) - (Easily Share/Save Post)
-* [**Sub Backups**](https://github.com/freemediaheckyeah/streaming/wiki/r-freemediaheckyeah-Backups)
