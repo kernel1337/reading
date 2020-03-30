@@ -13,8 +13,8 @@
 * [**Tokybook**](https://tinyurl.com/y8l4c8t9) - (Audiobook Streaming, Fiction, Medium Library)
 * [**ReadAnyBook**](https://tinyurl.com/wh6homx) - (Books, Fiction/Non, Big Library)
 * [**Direct Download Sites**](https://tinyurl.com/t3vct42) - (General DL Sites)
-* [**Piracy Forums**](https://tinyurl.com/vn53xqm) -  (General Piracy Forums)
-* [**AIO Search**](https://tinyurl.com/s55txxb) + [AIO Guide](https://redd.it/fa81st)
+* [**Piracy Forums**](https://tinyurl.com/vn53xqm) - (General Piracy Forums)
+* [**eBook Site List**](https://tinyurl.com/qlxmnmc) - (A big list of eBook sites)
 * r/opencalibre - (Calibre Libraries)
 * [Calishot](https://tinyurl.com/vyy662f) - (Search Calibre Libraries)
 * [ebooks CSE](https://tinyurl.com/y6m4355c) - (Custom google search)
@@ -47,6 +47,7 @@
 * [Smashword](https://tinyurl.com/una8n97) - (Books Fictions/Non, Small Library)
 * [HarryPotterBooksFree](https://tinyurl.com/yyv5bbzo) - (Harry Potter Books)
 * [Unblocked](https://tinyurl.com/ybkdftjg) - (Unblocked Versions of eBook sites)
+* [AIO Search](https://tinyurl.com/s55txxb) + [AIO Guide](https://redd.it/fa81st)
 
 ***
 
