@@ -62,10 +62,10 @@
 * [Google Scholar](https://tinyurl.com/oywjozw) - (Search Educational Articles)
 * [TheFreeLibrary](https://tinyurl.com/y5szw6ny) - (Search Educational Articles)
 * [BookFi](https://tinyurl.com/ybjsplla)  - (Educational, Huge Library)
+* [NotRealComplex](https://tinyurl.com/qqtdzex) - (Educational)
 * [ForCoder](https://tinyurl.com/y2kc97lu), [ScanLibs](https://tinyurl.com/whsjkrv) or [CoderProg](https://tinyurl.com/wtaj9ud) - (Programming, Huge Library)
 * [EarlyModernTexts](https://tinyurl.com/ychpysxs) - (Classic Philosophy texts, Small Library)
 * [WikiBooks](https://tinyurl.com/h7ej6uu) - (Educational Books)
-* [TextBook Nova](https://tinyurl.com/szko9ml) - (Academic Textbooks)
 * [BookSC](https://tinyurl.com/y3szezaa) - (Scientific Articles, Big Library)
 * [Sci-Hub](https://tinyurl.com/y553wbqn) - (Scientific Articles, Big Library)
 * [ResearchGate](https://tinyurl.com/47wuh2) - (Scientific Papers)
@@ -82,6 +82,7 @@
 * [PDFchm](https://tinyurl.com/vjghuq3) - (Coding Books, Medium Library, DL's only)
 * [TheTrove](https://tinyurl.com/y9l9lt2x) - (RPG Content)
 * [Cook eBooks](https://tinyurl.com/qtn93e6) - (Cookbook DL's)
+* [AntiLibrary](https://tinyurl.com/thu2lxr) - (Books, NonFiction, Medium Library, ZeroNet Required)
 
 ***
 
