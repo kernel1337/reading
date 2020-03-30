@@ -16,6 +16,7 @@
 * [**Piracy Forums**](https://tinyurl.com/vn53xqm) - (General Piracy Forums)
 * [**eBook Site List**](https://tinyurl.com/qlxmnmc) - (A big list of eBook sites)
 * r/opencalibre - (Calibre Libraries)
+* [Bibliotik Archive](https://tinyurl.com/r523bp5) - (The-Eye's Bibliotik Archive)
 * [Calishot](https://tinyurl.com/vyy662f) - (Search Calibre Libraries)
 * [ebooks CSE](https://tinyurl.com/y6m4355c) - (Custom google search)
 * [MojoBB](https://tinyurl.com/yx6sm7xe) - (Books, Fiction/Non, Big Library)
