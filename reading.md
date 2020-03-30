@@ -55,7 +55,7 @@
 * Note - Sites above marked Non fiction have educational books as well
 * [**Archive.org**](https://tinyurl.com/lnw8arr) - (15,000,000 books and texts. All Subjects.)
 * [**LibGen**](https://tinyurl.com/ye2e69r) - (Educational Articles, Huge Library)
-* [**Math Resources List**](https://tinyurl.com/tu88out) - (Educational math resource list by /u/javacoder19)
+* [**Math Resource List**](https://tinyurl.com/tu88out) - (Educational math resource list by /u/javacoder19)
 * [The Online Books Page](https://tinyurl.com/yxwzjt3x) - (Educational Collection, Huge Library)
 * [Digitalbookindex](https://tinyurl.com/3j5quaw) - (Educational Collection, Huge Library)
 * [The Literature Network](https://tinyurl.com/trsb) - (Educational Collection, Medium Library)
