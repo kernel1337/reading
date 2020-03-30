@@ -62,7 +62,7 @@
 * [Google Scholar](https://tinyurl.com/oywjozw) - (Search Educational Articles)
 * [TheFreeLibrary](https://tinyurl.com/y5szw6ny) - (Search Educational Articles)
 * [BookFi](https://tinyurl.com/ybjsplla)  - (Educational, Huge Library)
-* [NotRealComplex](https://tinyurl.com/qqtdzex) - (Educational)
+* [RealNotComplex](https://tinyurl.com/qqtdzex) - (Educational)
 * [ForCoder](https://tinyurl.com/y2kc97lu), [ScanLibs](https://tinyurl.com/whsjkrv) or [CoderProg](https://tinyurl.com/wtaj9ud) - (Programming, Huge Library)
 * [EarlyModernTexts](https://tinyurl.com/ychpysxs) - (Classic Philosophy texts, Small Library)
 * [WikiBooks](https://tinyurl.com/h7ej6uu) - (Educational Books)
