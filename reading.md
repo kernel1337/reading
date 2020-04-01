@@ -41,6 +41,7 @@
 * [2020ok](https://tinyurl.com/kwc8w) - (Books, Fiction/Non, Big Library)
 * [eBookBB](https://tinyurl.com/y5xzmstv) - (Books, Fiction/Non, Big Library)
 * [unglue](https://tinyurl.com/c5rqv2f) - (Books, Fiction/Non, Medium Library)
+* [PDFBooksWorld](https://tinyurl.com/smtpy4h) - (Books, Fiction/Non, Medium Library)
 * [PlanetEbook](https://tinyurl.com/vusfsnj) - (Books, Fiction, Medium Library)
 * [Free-eBooks](https://tinyurl.com/yce2c6nm) - (Books, Fiction/Non, Medium Library)
 * [2Novels](https://tinyurl.com/y2els8k8) - (Books, Fiction/Non, Medium Library)
@@ -51,6 +52,7 @@
 * [ReadCentral](https://tinyurl.com/y47fr3gt) - (Books, Fiction/Non, Medium Library)
 * [Getfreeebooks](https://tinyurl.com/y4n42zyd) - (Books, Fiction/Non, Medium Library)
 * [8eBooks](https://tinyurl.com/y5gma8au) - (Books, Fiction/Non, Medium Library)
+* [obooko](https://tinyurl.com/wudre46) - (Books Fictions/Non, Medium Library)
 * [e-Books Directory](https://tinyurl.com/3r6zkv) - (Books, Audiobooks, Fiction/Non, Small Library)
 * [AllBooksHub](https://tinyurl.com/yytg55ev) - (Books, Fiction/Non, Small Library)
 * [Global Grey](https://tinyurl.com/t8rpaah) - (Books, Fiction/Non, Small Library)
@@ -72,6 +74,7 @@
 * [**Archive.org**](https://tinyurl.com/lnw8arr) - (15,000,000 books and texts. All Subjects.)
 * [**LibGen**](https://tinyurl.com/ye2e69r) - (Educational Articles, Huge Library)
 * [**Math Resource List**](https://tinyurl.com/tu88out) - (Educational math resource list by /u/javacoder19)
+* [VCE PDF Megathread](https://redd.it/dxvao6) - (Request Educational PDFs)
 * [The Online Books Page](https://tinyurl.com/yxwzjt3x) - (Educational Collection, Huge Library)
 * [Digitalbookindex](https://tinyurl.com/3j5quaw) - (Educational Collection, Huge Library)
 * [The Literature Network](https://tinyurl.com/trsb) - (Educational Collection, Medium Library)
@@ -104,10 +107,12 @@
 * [TechbooksFree](https://tinyurl.com/stonkms) - (Software, Programming, Tech)
 * [FreeComputerEbooks](https://tinyurl.com/v3nsr) - (Programming, math)
 * [PDFGrab](https://tinyurl.com/s8ussme) - (Tech, Business, Engineering, Law)
+* [Mathonline](https://tinyurl.com/qv2x7fd) - (Math help / tutorials)
 * [TheTrove](https://tinyurl.com/y9l9lt2x) - (RPG Content)
 * [Cook eBooks](https://tinyurl.com/qtn93e6) - (Cookbook DL's)
 * [Psychedelics Archive](https://tinyurl.com/y5mr25mz) - (The-Eye's Psychedelics Book Archives)
 * [AntiLibrary](https://tinyurl.com/thu2lxr) - (Books, NonFiction, Medium Library, ZeroNet Required)
+* [Educational Streaming](https://tinyurl.com/smjnag8) - (Sites with educational videos)
 
 ***
 
