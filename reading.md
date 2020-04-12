@@ -46,6 +46,8 @@
 * [PDFBooksWorld](https://tinyurl.com/smtpy4h) - (Books, Fiction/Non, Medium Library)
 * [PlanetEbook](https://tinyurl.com/vusfsnj) - (Books, Fiction, Medium Library)
 * [Free-eBooks](https://tinyurl.com/yce2c6nm) - (Books, Fiction/Non, Medium Library)
+* [Ocean of PDF](https://tinyurl.com/wf7tyqg) - (Books, Fiction/Non, Medium Library)
+* [Ocean of epub](https://tinyurl.com/uem3t5n) - (Books, Fiction/Non, Medium Library)
 * [2Novels](https://tinyurl.com/y2els8k8) - (Books, Fiction/Non, Medium Library)
 * [DigiLibraries](https://tinyurl.com/veljlkx) - (Books, Fiction/Non, Medium Library)
 * [Novels77](https://tinyurl.com/yxo8l6rf) - (Books, Fiction/Non, Medium Library)
