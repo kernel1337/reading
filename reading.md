@@ -35,6 +35,7 @@
 * [Novel12](https://tinyurl.com/y5kolyr3) - (Books, Fiction/Non, Big Library)
 * [Ebfinder](https://tinyurl.com/y6cjcsm2) - (Books, Fiction/Non, Big Library)
 * [AllBooksWorld](https://tinyurl.com/un7be36) - (Books Fictions/Non, Big Library)
+* [BookRe](https://tinyurl.com/yba7fgvd) - (Books, Fiction/Non, Big Library)
 * [Project Gutenberg](https://tinyurl.com/hmmj3g4) - (Books, Fiction/Non, Big Library)
 * [Project Gutenberg Australia](https://tinyurl.com/hytdk) - (Books, Fiction/Non, Big Library)
 * [Project Gutenberg Canada](https://tinyurl.com/ya82c4vo) - (Books, Fiction/Non, Big Library)
